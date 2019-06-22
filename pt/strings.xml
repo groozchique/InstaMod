@@ -1,185 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-<!-- Fuzzy -->
 <string name="settings_privacy">"Definições de privacidade"</string>
-
-<!-- Fuzzy -->
 <string name="others">"Definições gerais"</string>
-
-<!-- Fuzzy -->
 <string name="service_settings">"Definições do MOD"</string>
 
 <!-- Option in mod settings -->
 <string name="Thanks">"Agradecimentos"</string>
-
-<!-- Fuzzy -->
 <string name="donate_mod">"Doações"</string>
-
-<!-- Fuzzy -->
 <string name="about_mod">"Sobre as alterações"</string>
-
-<!-- Fuzzy -->
 <string name="tg_channel">"Canal do Telegram"</string>
-
-<!-- Fuzzy -->
 <string name="hide_view_status">"Não marcar as histórias como vistslas"</string>
-
-<!-- Fuzzy -->
 <string name="hide_view_status_summary">"O autor da história não poderá ver que já viu a história"</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread">"Não marcar as mensagens como vistas"</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread_summary">"As mensagens que receber, não serão marcadas como vistas"</string>
-
-<!-- Fuzzy -->
 <string name="direct_typing">"Esconder indicação de estar a escrever"</string>
-
-<!-- Fuzzy -->
 <string name="download_folder">"Pasta de transferências"</string>
-
-<!-- Fuzzy -->
 <string name="set_download_folder">"Selecione a pasta de transferências. Poderá inserir \"/\" para pastas internas, desde que não sejam no início ou no fim."</string>
-
-<!-- Fuzzy -->
 <string name="select_language">"Selecionar o idiomas para a tradução"</string>
-
-<!-- Fuzzy -->
 <string name="two_line_direct">"Campo de texto da mensagem em duas linhas"</string>
-
-<!-- Fuzzy -->
 <string name="open_inapp">"Habilitar o navegador interno"</string>
-
-<!-- Fuzzy -->
 <string name="double_like">"Habilitar duplo toque para gostar"</string>
 
 <!-- In v16, it's not double tap to download, but triple tap to download, so I've changed this string -->
-<!-- Fuzzy -->
 <string name="double_down">"Transferir com triplo toque"</string>
-
-<!-- Fuzzy -->
 <string name="long_tap_zoom">"Fazer zoom ao manter pressionado"</string>
-
-<!-- Fuzzy -->
 <string name="play_video_with_audio">"Começar os vídeos com som"</string>
-
-<!-- Fuzzy -->
 <string name="disable_stories">"Desativar historias"</string>
-
-<!-- Fuzzy -->
 <string name="suggested_users">"Sugestões de amizade"</string>
-
-<!-- Fuzzy -->
 <string name="suggested_users_sum">"Desactivar sugestões de amizades do feed"</string>
-
-<!-- Fuzzy -->
 <string name="gb_enable_logging">"Enviar relatórios de paragens"</string>
-
-<!-- Fuzzy -->
 <string name="disable_updates">"Verificar atualizações"</string>
-
-<!-- Fuzzy -->
 <string name="gb_more_options">"Definições adicionais"</string>
-
-<!-- Fuzzy -->
 <string name="gb_download_only_image_list_media">"Transferir a imagem selecionada"</string>
 
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
-<!-- Fuzzy -->
 <string name="gb_download_list_media">"Transferir as %1$s imagens"</string>
-
-<!-- Fuzzy -->
 <string name="download">"Transferir"</string>
-
-<!-- Fuzzy -->
 <string name="previewurl">"Pré-visualizar"</string>
-
-<!-- Fuzzy -->
 <string name="shareurl">"Partilhar ligação da imagem/vídeo"</string>
-
-<!-- Fuzzy -->
 <string name="copyurl">"Copiar ligação da imagem/vídeo"</string>
-
-<!-- Fuzzy -->
 <string name="settings_feed">"Definições do feed e das histórias"</string>
-
-<!-- Fuzzy -->
 <string name="carousel_start">"Primeira foto nas publicações de álbum"</string>
-
-<!-- Fuzzy -->
 <string name="disable_ads">"Desactivar patrocínios"</string>
-
-<!-- Fuzzy -->
 <string name="stories_sound">"Reproduzor histórias sempre com som"</string>
-
-<!-- Fuzzy -->
 <string name="disable_analytics">"Desativar Google Analytics"</string>
-
-<!-- Fuzzy -->
 <string name="translate_engine">"Selecionar método de tradução"</string>
-
-<!-- Fuzzy -->
 <string name="mark_seen">"Marcar como lida"</string>
-
-<!-- Fuzzy -->
 <string name="direct_mark_as_unread">"Marcar como não lida"</string>
-
-<!-- Fuzzy -->
 <string name="impossible_down">"Não é possível transferir"</string>
-
-<!-- Fuzzy -->
 <string name="gb_disable_slide">"Desativar a navegação por deslize"</string>
-
-<!-- Fuzzy -->
 <string name="gb_disable_slide_Summary">"Deixa de abrir a câmara ao deslizar para a esquerda ou as mensagens para a direira"</string>
 
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
-<!-- Fuzzy -->
 <string name="version_about">"Versão da aplicação alterada: %1$d"</string>
-
-<!-- Fuzzy -->
 <string name="author_about">"Autor: krogon500"</string>
-
-<!-- Fuzzy -->
 <string name="down_start">"A transferência começou..."</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread_off">"Visto de visualização está desativo"</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread_on">"Visto de visualização está ativo"</string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
-<!-- Fuzzy -->
 <string name="downloaded_media_toast">"Guardado em"</string>
-
-<!-- Fuzzy -->
 <string name="gb_translate">"Traduzir"</string>
-
-<!-- Fuzzy -->
 <string name="done_translate">"Traduzido"</string>
-
-<!-- Fuzzy -->
 <string name="translate_toast">"A traduzir..."</string>
-
-<!-- Fuzzy -->
 <string name="copypassdone">"Copiado"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_tu">"Traduzir para Turco"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_ua">"Traduzir para Ucraniano"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_ru">"Traduzir para Russo"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_en">"Traduzir para Inglês"</string>
-
-<!-- Fuzzy -->
 <string name="message_too_long">"Erro: a mensagem é muito longa"</string>
 <string name="profile_picture_download_failed"></string>
 </resources>
