@@ -41,6 +41,9 @@
 <string name="carousel_start">"پست های چرخشی با اولین رسانه"</string>
 <string name="disable_ads">"غیر فعال کردن تبلیغات"</string>
 <string name="stories_sound">"استوری ها همیشه با صدا پخش شوند"</string>
+<string name="disable_analytics">"غیرفعال کردن تجزیه و تحلیل"</string>
+<string name="translate_engine">"موتور ترجمه را انتخاب کنید"</string>
+<string name="mark_seen">"به عنوان خوانده شده علامت بزن"</string>
 <string name="impossible_down">"امکان دانلود وجود ندارد"</string>
 <string name="gb_disable_slide">"غیر فعال کردن سوایپ به طرفین "</string>
 <string name="gb_disable_slide_Summary">"غیر فعال کردن سوایپ از چپ به راست برای باز کردن دوربین یا از چپ به راست برای باز کردن دایرکت "</string>
@@ -77,12 +80,12 @@ GBInsta اصلی ساخته شده توسط: &lt;b&gt;atnfas hoak&lt;/b&gt; (Oma
 "</string>
 
 <!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_notif">"Custom options by &lt;b&gt;namok&lt;/b&gt; and &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Long press on top icons::&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Camera icon&lt;/b&gt; - on / off videos autoplay.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Direct icon&lt;/b&gt; - on / off typing status.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Long press on bottom icons:&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Home Icon&lt;/b&gt;  - opens developer settings.&lt;br&gt;"</string>
+<string name="base64_extra_notif">"گزینه های سفارشی توسط &lt;b&gt;namok&lt;/b&gt; and &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;فشار دادن ایکون های بالا::&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;ایکون دوربین&lt;/b&gt; - روشن / خاموش کردن ویدیوها به صورت خودکار.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;ایکون دایرکت&lt;/b&gt; - روشن / خاموش وضعیت تایپ.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;نگه داشتن ایکون های پایین:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;ایکون خانه&lt;/b&gt;  - باز کردن تنظیمات برنامه نویس.&lt;br&gt;"</string>
 
 <!-- Do not remove tags like <b></b> -->
 <string name="base64_extra_title">"&lt;big&gt;توجه!&lt;/big&gt;"</string>
