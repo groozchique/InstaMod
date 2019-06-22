@@ -68,4 +68,27 @@
 <string name="translate_to_en">"Перевести на Английский"</string>
 <string name="message_too_long">"Ошибка: сообщение слишком длинное"</string>
 <string name="profile_picture_download_failed">"Ошибка при загрузке фото профиля"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_thanks">"Поддержка мода: &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Автор GBInsta: &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
+Расширенная версия: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
+Особая благодарность:&lt;br&gt;&lt;br&gt;
+&lt;b&gt;OGMods&lt;/b&gt; - за OGInsta&lt;br&gt;
+&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - за перевод настроек мода на русский&lt;br&gt;
+&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - за перевод настроек мода на турецкий&lt;br&gt;
+&lt;b&gt;И всем пользователям&lt;/b&gt; - кто тестирует и отправляет инфу о багах&lt;br&gt;&lt;br&gt;"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_notif">"Дополнительные опции от &lt;b&gt;namok&lt;/b&gt; и &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Долгое нажатие на иконки:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Камеры&lt;/b&gt; - вкл/выкл автовоспроизведение.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Директа&lt;/b&gt; - вкл/выкл нечиталку.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Дома&lt;/b&gt;  - открывает настройки разработчика.&lt;br&gt;"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_title">"&lt;big&gt;Внимание!&lt;/big&gt;"</string>
+<string name="base64_extra_ok">"Ok"</string>
+<string name="autoplay_on">"Автовоспроизведение видео включено!"</string>
+<string name="autoplay_off">"Автовоспроизведение видео выключено!"</string>
 </resources>
