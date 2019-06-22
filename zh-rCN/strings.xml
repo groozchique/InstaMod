@@ -70,13 +70,13 @@
 <string name="profile_picture_download_failed">"无法下载头像"</string>
 
 <!-- Do not remove tags like <b></b> -->
-<string name="base64_thanks"></string>
+<string name="base64_thanks">55SxPGI+a3JvZ29uNTAwPC9iPuS/ruaUueeahOmAgumFjeacgOaWsOeJiOacrOeahCBJbnN0YWdyYW0gPGJyPjxicj4K5Y6f5aeLIEdCSW5zdGEg5L2c6ICFOiA8Yj5hdG5mYXMgaG9hazwvYj4gKE9tYXIpPGJyPjxicj4K5aKe5by654mI5pys5L2c6ICFOiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgrnibnliKvpuKPosKI6PGJyPjxicj4KPGI+T0dNb2RzPC9iPiAtIOWItuS9nOeahCBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0g5L+E6K+t57+76K+R6ICFPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSDlnJ/ogLPlhbbor63nv7vor5HogIU8YnI+CjxiPuWFtuS7luaJgOacieeahDwvYj4gLSDmtYvor5XmiqXlkYpCVUfnmoTnlKjmiLc8YnI+PGJyPg==</string>
 
 <!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_notif"></string>
+<string name="base64_extra_notif">55SxIDxiPm5hbW9rPC9iPiBhbmQgPGI+a3JvZ29uNTAwPC9iPuWItuS9nOeahOS/ruaUuemAiemhuTxicj48YnI+IAo8Yj7plb/mjInku6XkuIvpobbmoI/lm77moIc6OjwvYj48YnI+IDxiPuebuOacujwvYj4gLSDlvIDlkK8gLyDlhbPpl60g6KeG6aKR6Ieq5Yqo5pKt5pS+PGJyPjxicj4gPGI+56eB5L+hPC9iPiAtIOW8gOWQryAvIOWFs+mXrSDlsZXnpLrovpPlhaXnirbmgIEgPGJyPjxicj4gPGI+6ZW/5oyJ5Lul5LiL5L2O5qCP5Zu+5qCHOjwvYj48YnI+IDxiPuS4u+mhtTwvYj4gLSDmiZPlvIDlvIDlj5HogIXpgInpobkuPGJyPg==</string>
 
 <!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_title">"&lt;big&gt;注意!&lt;/big&gt;"</string>
+<string name="base64_extra_title">PGJpZz7ms6jmhI8hPC9iaWc+</string>
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"自动播放视频开启！"</string>
 <string name="autoplay_off">"自动播放视频关闭！"</string>
