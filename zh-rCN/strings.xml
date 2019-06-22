@@ -1,1 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_privacy">"隐私设置"</string>
+<string name="others">"常规设置"</string>
+<string name="service_settings">"服务设置"</string>
 
+<!-- Option in mod settings -->
+<string name="Thanks">"鸣谢"</string>
+<string name="donate_mod">"捐赠"</string>
+<string name="about_mod">"关于本修改版"</string>
+<string name="tg_channel">"Telegram 频道"</string>
+<string name="hide_view_status">"将Stories保持未读"</string>
+<string name="hide_view_status_summary">"对方无法看到你读过了它的Story"</string>
+<string name="direct_unread">"私信消息保持未读"</string>
+<string name="direct_unread_summary">"已经收到的私信,不会将它标记为已读"</string>
+<string name="direct_typing">"在私信中隐藏你的输入状态"</string>
+<string name="download_folder">"下载目录"</string>
+<string name="set_download_folder">"将目录设置为下载目录,开头和结尾不需要 / 号"</string>
+<string name="select_language">"选择翻译语言"</string>
+<string name="two_line_direct">"私信中聊天框工具单列一行"</string>
+<string name="open_inapp">"启用内置浏览器"</string>
+<string name="double_like">"启用双击点赞"</string>
+<string name="double_down">"三击下载"</string>
+<string name="long_tap_zoom">"长按缩放图片"</string>
+<string name="play_video_with_audio">"播放视频时自动开启声音"</string>
+<string name="disable_stories">"关闭 Story"</string>
+<string name="suggested_users">"推荐用户"</string>
+<string name="suggested_users_sum">"关闭首页中的推荐用户"</string>
+<string name="gb_enable_logging">"发送崩溃日志"</string>
+<string name="disable_updates">"检查更新"</string>
+<string name="gb_more_options">"下载和分享"</string>
+<string name="gb_download_only_image_list_media">"下载所选的图片"</string>
+
+<!-- DO NOT REMOVE "%1$s" SYMBOL -->
+<string name="gb_download_list_media">"下载所有图片"</string>
+<string name="download">"下载"</string>
+<string name="previewurl">"打开"</string>
+<string name="shareurl">"分享图片或视频地址"</string>
+<string name="copyurl">"复制图片或视频地址"</string>
+<string name="settings_feed">"首页和Story设置"</string>
+<string name="carousel_start">"不自动跳转保持在第一个视频"</string>
+<string name="disable_ads">"关闭广告"</string>
+<string name="stories_sound">"播放Story开启声音"</string>
+<string name="disable_analytics">"关闭统计"</string>
+<string name="translate_engine">"选择翻译引擎"</string>
+<string name="mark_seen">"标记为已读"</string>
+<string name="direct_mark_as_unread">"标记为未读"</string>
+<string name="impossible_down">"无法下载"</string>
+<string name="gb_disable_slide">"关闭滑动手势"</string>
+<string name="gb_disable_slide_Summary">"关闭右滑进入相机和左滑进入私信"</string>
+
+<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
+<string name="version_about">"Mod 版本: %1$d"</string>
+<string name="author_about">"作者：Krogon500"</string>
+<string name="down_start">"开始下载 ..."</string>
+<string name="direct_unread_off">"开启保持消息为未读"</string>
+<string name="direct_unread_on">"关闭保持消息为未读"</string>
+
+<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
+<string name="downloaded_media_toast">"已保存到"</string>
+<string name="gb_translate">"翻译"</string>
+<string name="done_translate">"已翻译"</string>
+<string name="translate_toast">"翻译中 ... 请稍后"</string>
+<string name="copypassdone">"复制成功"</string>
+<string name="translate_to_tu">"翻译为土耳其语"</string>
+<string name="translate_to_ua">"翻译为乌克兰语"</string>
+<string name="translate_to_ru">"翻译为俄语"</string>
+<string name="translate_to_en">"翻译为英语"</string>
+<string name="message_too_long">"错误：消息过长"</string>
+<string name="profile_picture_download_failed">"无法下载头像"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_thanks"></string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_notif"></string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_title">"&lt;big&gt;注意!&lt;/big&gt;"</string>
+<string name="base64_extra_ok">"Ok"</string>
+<string name="autoplay_on">"自动播放视频开启！"</string>
+<string name="autoplay_off">"自动播放视频关闭！"</string>
+</resources>
