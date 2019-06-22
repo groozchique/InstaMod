@@ -1,194 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-<!-- Fuzzy -->
 <string name="settings_privacy">"Privacy settings"</string>
-
-<!-- Fuzzy -->
 <string name="others">"General settings"</string>
-
-<!-- Fuzzy -->
 <string name="service_settings">"Service settings"</string>
 
 <!-- Option in mod settings -->
 <string name="Thanks">"Thanks"</string>
-
-<!-- Fuzzy -->
 <string name="donate_mod">"Donate"</string>
-
-<!-- Fuzzy -->
 <string name="about_mod">"About mod"</string>
-
-<!-- Fuzzy -->
 <string name="tg_channel">"Telegram Channel"</string>
-
-<!-- Fuzzy -->
 <string name="hide_view_status">"Do not mark stories as Seen"</string>
-
-<!-- Fuzzy -->
 <string name="hide_view_status_summary">"Story author will not be able to see that you viewed his story"</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread">"Do not mark messages as Read"</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread_summary">"Messages, that you receive, will not be marked as Read"</string>
-
-<!-- Fuzzy -->
 <string name="direct_typing">"Hide typing status in DM"</string>
-
-<!-- Fuzzy -->
 <string name="download_folder">"Download folder"</string>
-
-<!-- Fuzzy -->
 <string name="set_download_folder">"Set path to download folder. You can put slashes between parts of the path, but not at the begining not the end!"</string>
-
-<!-- Fuzzy -->
 <string name="select_language">"Select language for translation"</string>
-
-<!-- Fuzzy -->
 <string name="two_line_direct">"Two-line message box in DM"</string>
-
-<!-- Fuzzy -->
 <string name="open_inapp">"Enable in-app browser"</string>
-
-<!-- Fuzzy -->
 <string name="double_like">"Enable double-tap to like"</string>
-
-<!-- Fuzzy -->
 <string name="double_down">"Download media by triple tap"</string>
-
-<!-- Fuzzy -->
 <string name="long_tap_zoom">"Zoom photos by long tap"</string>
-
-<!-- Fuzzy -->
 <string name="play_video_with_audio">"Start videos directly with sound"</string>
-
-<!-- Fuzzy -->
 <string name="disable_stories">"Disable stories"</string>
-
-<!-- Fuzzy -->
 <string name="suggested_users">"Recommended friends"</string>
-
-<!-- Fuzzy -->
 <string name="suggested_users_sum">"Disable recommended friends in the feed"</string>
-
-<!-- Fuzzy -->
 <string name="gb_enable_logging">"Send crash reports"</string>
-
-<!-- Fuzzy -->
 <string name="disable_updates">"Check for updates"</string>
-
-<!-- Fuzzy -->
 <string name="gb_more_options">"Extra options"</string>
-
-<!-- Fuzzy -->
 <string name="gb_download_only_image_list_media">"Download selected picture"</string>
 
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
-<!-- Fuzzy -->
 <string name="gb_download_list_media">"Download all %1$s pictures"</string>
-
-<!-- Fuzzy -->
 <string name="download">"Download"</string>
-
-<!-- Fuzzy -->
 <string name="previewurl">"Preview"</string>
-
-<!-- Fuzzy -->
 <string name="shareurl">"Share Image/Video link"</string>
-
-<!-- Fuzzy -->
 <string name="copyurl">"Copy Image/Video link"</string>
-
-<!-- Fuzzy -->
 <string name="settings_feed">"Feed and stories settings"</string>
-
-<!-- Fuzzy -->
 <string name="carousel_start">"Carousel posts to first media"</string>
-
-<!-- Fuzzy -->
 <string name="disable_ads">"Disable ads"</string>
-
-<!-- Fuzzy -->
 <string name="stories_sound">"Play stories always with sound"</string>
-
-<!-- Fuzzy -->
 <string name="disable_analytics">"Disable analytics"</string>
-
-<!-- Fuzzy -->
 <string name="translate_engine">"Select translation engine"</string>
-
-<!-- Fuzzy -->
 <string name="mark_seen">"Mark as Read"</string>
-
-<!-- Fuzzy -->
 <string name="direct_mark_as_unread">"Mark as Unread"</string>
-
-<!-- Fuzzy -->
 <string name="impossible_down">"
 It's not possible to download"</string>
-
-<!-- Fuzzy -->
 <string name="gb_disable_slide">"
 Disable swipe to navigate"</string>
-
-<!-- Fuzzy -->
 <string name="gb_disable_slide_Summary">"
 Disable swiping from left to right to open camera or from left to right to open DM"</string>
 
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
-<!-- Fuzzy -->
 <string name="version_about">"Mod version: %1$d"</string>
-
-<!-- Fuzzy -->
 <string name="author_about">"
 Author: krogon500"</string>
-
-<!-- Fuzzy -->
 <string name="down_start">"Download started..."</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread_off">"
 Read tick is disabled"</string>
-
-<!-- Fuzzy -->
 <string name="direct_unread_on">"Read tick is enabled"</string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
-<!-- Fuzzy -->
 <string name="downloaded_media_toast">"
 Saved in"</string>
-
-<!-- Fuzzy -->
 <string name="gb_translate">"Translate"</string>
-
-<!-- Fuzzy -->
 <string name="done_translate">"
 Translated"</string>
-
-<!-- Fuzzy -->
 <string name="translate_toast">"Translating ... Wait a moment"</string>
-
-<!-- Fuzzy -->
 <string name="copypassdone">"
 Copied successfully"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_tu">"
 Translate to Turkish"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_ua">"Translate to Ukrainian"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_ru">"Translate to Russian"</string>
-
-<!-- Fuzzy -->
 <string name="translate_to_en">"
 Translate to English"</string>
-
-<!-- Fuzzy -->
 <string name="message_too_long">"Error: message is too long"</string>
 <string name="profile_picture_download_failed">"Failed to download Profile Picture"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_thanks">"Adaptation to latest version of Instagram by: &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Original GBInsta made by: &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
+Extended version by: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
+Special thanks to:&lt;br&gt;&lt;br&gt;
+&lt;b&gt;OGMods&lt;/b&gt; - for the OGInsta&lt;br&gt;
+&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - for the translation of custom settings into Russian&lt;br&gt;
+&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - for the translation of custom settings into Turkish&lt;br&gt;
+&lt;b&gt;And to all users&lt;/b&gt; - who tested, sent bug reports&lt;br&gt;&lt;br&gt;"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_notif">"Custom options by &lt;b&gt;namok&lt;/b&gt; and &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Long press on top icons::&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Camera icon&lt;/b&gt; - on / off videos autoplay.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Direct icon&lt;/b&gt; - on / off typing status.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Long press on bottom icons:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Home Icon&lt;/b&gt;  - opens developer settings.&lt;br&gt;"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_title">"&lt;big&gt;Attention!&lt;/big&gt;"</string>
+<string name="base64_extra_ok">"Ok"</string>
+<string name="autoplay_on">"Videos autoplay is enabled!"</string>
+<string name="autoplay_off">"Videos autoplay is disabled!"</string>
 </resources>
