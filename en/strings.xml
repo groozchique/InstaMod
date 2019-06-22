@@ -3,8 +3,6 @@
 <string name="settings_privacy">"Privacy settings"</string>
 <string name="others">"General settings"</string>
 <string name="service_settings">"Service settings"</string>
-
-<!-- Option in mod settings -->
 <string name="Thanks">"Thanks"</string>
 <string name="donate_mod">"Donate"</string>
 <string name="about_mod">"About mod"</string>
@@ -30,8 +28,6 @@
 <string name="disable_updates">"Check for updates"</string>
 <string name="gb_more_options">"Extra options"</string>
 <string name="gb_download_only_image_list_media">"Download selected picture"</string>
-
-<!-- DO NOT REMOVE "%1$s" SYMBOL -->
 <string name="gb_download_list_media">"Download all %1$s pictures"</string>
 <string name="download">"Download"</string>
 <string name="previewurl">"Preview"</string>
@@ -51,8 +47,6 @@ It's not possible to download"</string>
 Disable swipe to navigate"</string>
 <string name="gb_disable_slide_Summary">"
 Disable swiping from left to right to open camera or from left to right to open DM"</string>
-
-<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"Mod version: %1$d"</string>
 <string name="author_about">"
 Author: krogon500"</string>
@@ -60,8 +54,6 @@ Author: krogon500"</string>
 <string name="direct_unread_off">"
 Read tick is disabled"</string>
 <string name="direct_unread_on">"Read tick is enabled"</string>
-
-<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"
 Saved in"</string>
 <string name="gb_translate">"Translate"</string>
@@ -78,8 +70,6 @@ Translate to Turkish"</string>
 Translate to English"</string>
 <string name="message_too_long">"Error: message is too long"</string>
 <string name="profile_picture_download_failed">"Failed to download Profile Picture"</string>
-
-<!-- Do not remove tags like <b></b> -->
 <string name="base64_thanks">QWRhcHRhdGlvbiB0byBsYXRlc3QgdmVyc2lvbiBvZiBJbnN0YWdyYW0gYnk6IDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgpPcmlnaW5hbCBHQkluc3RhIG1hZGUgYnk6IDxiPmF0bmZhcyBob2FrPC9iPiAoT21hcik8YnI+PGJyPgpFeHRlbmRlZCB2ZXJzaW9uIGJ5OiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgpTcGVjaWFsIHRoYW5rcyB0bzo8YnI+PGJyPgo8Yj5PR01vZHM8L2I+IC0gZm9yIHRoZSBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0gZm9yIHRoZSB0cmFuc2xhdGlvbiBvZiBjdXN0b20gc2V0dGluZ3MgaW50byBSdXNzaWFuPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSBmb3IgdGhlIHRyYW5zbGF0aW9uIG9mIGN1c3RvbSBzZXR0aW5ncyBpbnRvIFR1cmtpc2g8YnI+CjxiPkFuZCB0byBhbGwgdXNlcnM8L2I+IC0gd2hvIHRlc3RlZCwgc2VudCBidWcgcmVwb3J0czxicj48YnI+</string>
 <string name="base64_extra_notif">Q3VzdG9tIG9wdGlvbnMgYnkgPGI+bmFtb2s8L2I+IGFuZCA8Yj5rcm9nb241MDA8L2I+PGJyPjxicj4KPGI+TG9uZyBwcmVzcyBvbiB0b3AgaWNvbnM6OjwvYj48YnI+CjxiPkNhbWVyYSBpY29uPC9iPiAtIG9uIC8gb2ZmIHZpZGVvcyBhdXRvcGxheS48YnI+PGJyPgo8Yj5EaXJlY3QgaWNvbjwvYj4gLSBvbiAvIG9mZiB0eXBpbmcgc3RhdHVzLjxicj48YnI+CjxiPkxvbmcgcHJlc3Mgb24gYm90dG9tIGljb25zOjwvYj48YnI+CjxiPkhvbWUgSWNvbjwvYj4gIC0gb3BlbnMgZGV2ZWxvcGVyIHNldHRpbmdzLjxicj4=</string>
 <string name="base64_extra_title">PGJpZz5BdHRlbnRpb24hPC9iaWc+</string>
