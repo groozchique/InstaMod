@@ -46,7 +46,6 @@
 <string name="disable_analytics">"Desativar Google Analytics"</string>
 <string name="translate_engine">"Selecionar método de tradução"</string>
 <string name="mark_seen">"Marcar como lida"</string>
-<string name="direct_mark_as_unread">"Marcar como não lida"</string>
 <string name="impossible_down">"Não é possível transferir"</string>
 <string name="gb_disable_slide">"Desativar a navegação por deslize"</string>
 <string name="gb_disable_slide_Summary">"Deixa de abrir a câmara ao deslizar para a esquerda ou as mensagens para a direira"</string>
@@ -69,5 +68,16 @@
 <string name="translate_to_ru">"Traduzir para Russo"</string>
 <string name="translate_to_en">"Traduzir para Inglês"</string>
 <string name="message_too_long">"Erro: a mensagem é muito longa"</string>
-<string name="profile_picture_download_failed"></string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_thanks"></string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_notif"></string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_title"></string>
+<string name="base64_extra_ok"></string>
+<string name="autoplay_on"></string>
+<string name="autoplay_off"></string>
 </resources>
