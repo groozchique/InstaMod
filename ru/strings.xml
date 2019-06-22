@@ -62,7 +62,7 @@
 <string name="done_translate">"Переведено"</string>
 <string name="translate_toast">"Перевод ... Подождите минуту"</string>
 <string name="copypassdone">"Успешно скопировано"</string>
-<string name="translate_to_tu">"Перевести на турецкий"</string>
+<string name="translate_to_tu">"Перевести на Турецкий"</string>
 <string name="translate_to_ua">"Перевести на Украинский"</string>
 <string name="translate_to_ru">"Перевести на Русский"</string>
 <string name="translate_to_en">"Перевести на Английский"</string>
@@ -70,24 +70,9 @@
 <string name="profile_picture_download_failed">"Ошибка при загрузке фото профиля"</string>
 
 <!-- Do not remove tags like <b></b> -->
-<string name="base64_thanks">"Поддержка мода: &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Автор GBInsta: &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
-Расширенная версия: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
-Особая благодарность:&lt;br&gt;&lt;br&gt;
-&lt;b&gt;OGMods&lt;/b&gt; - за OGInsta&lt;br&gt;
-&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - за перевод настроек мода на русский&lt;br&gt;
-&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - за перевод настроек мода на турецкий&lt;br&gt;
-&lt;b&gt;И всем пользователям&lt;/b&gt; - кто тестирует и отправляет инфу о багах&lt;br&gt;&lt;br&gt;"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_notif">"Дополнительные опции от &lt;b&gt;namok&lt;/b&gt; и &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Долгое нажатие на иконки:&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Камеры&lt;/b&gt; - вкл/выкл автовоспроизведение.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Директа&lt;/b&gt; - вкл/выкл нечиталку.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Дома&lt;/b&gt;  - открывает настройки разработчика.&lt;br&gt;"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_title">"&lt;big&gt;Внимание!&lt;/big&gt;"</string>
+<string name="base64_thanks">0J/QvtC00LTQtdGA0LbQutCwINC80L7QtNCwOiA8Yj5rcm9nb241MDA8L2I+PGJyPjxicj4K0JDQstGC0L7RgCBHQkluc3RhOiA8Yj5hdG5mYXMgaG9hazwvYj4gKE9tYXIpPGJyPjxicj4K0KDQsNGB0YjQuNGA0LXQvdC90LDRjyDQstC10YDRgdC40Y86IDxicj48Yj5uYW1vazwvYj4gKE11aGFtbWFkKTxicj48YnI+CtCe0YHQvtCx0LDRjyDQsdC70LDQs9C+0LTQsNGA0L3QvtGB0YLRjDo8YnI+PGJyPgo8Yj5PR01vZHM8L2I+IC0g0LfQsCBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0g0LfQsCDQv9C10YDQtdCy0L7QtCDQvdCw0YHRgtGA0L7QtdC6INC80L7QtNCwINC90LAg0YDRg9GB0YHQutC40Lk8YnI+CjxiPk1hbWljdWsgJiBKb2tlcnIzMyAmIEludGFuU3VSPC9iPiAtINC30LAg0L/QtdGA0LXQstC+0LQg0L3QsNGB0YLRgNC+0LXQuiDQvNC+0LTQsCDQvdCwINGC0YPRgNC10YbQutC40Lk8YnI+CjxiPtCYINCy0YHQtdC8INC/0L7Qu9GM0LfQvtCy0LDRgtC10LvRj9C8PC9iPiAtINC60YLQviDRgtC10YHRgtC40YDRg9C10YIg0Lgg0L7RgtC/0YDQsNCy0LvRj9C10YIg0LjQvdGE0YMg0L4g0LHQsNCz0LDRhTxicj48YnI+</string>
+<string name="base64_extra_notif">0JTQvtC/0L7Qu9C90LjRgtC10LvRjNC90YvQtSDQvtC/0YbQuNC4INC+0YIgPGI+bmFtb2s8L2I+INC4IDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgo8Yj7QlNC+0LvQs9C+0LUg0L3QsNC20LDRgtC40LUg0L3QsCDQuNC60L7QvdC60Lg6PC9iPjxicj4KPGI+0JrQsNC80LXRgNGLPC9iPiAtINCy0LrQuy/QstGL0LrQuyDQsNCy0YLQvtCy0L7RgdC/0YDQvtC40LfQstC10LTQtdC90LjQtS48YnI+PGJyPgo8Yj7QlNC40YDQtdC60YLQsDwvYj4gLSDQstC60Lsv0LLRi9C60Lsg0L3QtdGH0LjRgtCw0LvQutGDLjxicj48YnI+CjxiPtCU0L7QvNCwPC9iPiAgLSDQvtGC0LrRgNGL0LLQsNC10YIg0L3QsNGB0YLRgNC+0LnQutC4INGA0LDQt9GA0LDQsdC+0YLRh9C40LrQsC48YnI+</string>
+<string name="base64_extra_title">PGJpZz7QktC90LjQvNCw0L3QuNC1ITwvYmlnPg==</string>
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Автовоспроизведение видео включено!"</string>
 <string name="autoplay_off">"Автовоспроизведение видео выключено!"</string>
