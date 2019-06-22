@@ -1,1 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_privacy">"تنظیمات حریم خصوصی"</string>
+<string name="others">"تنظیمات عمومی"</string>
+<string name="service_settings">"تنظیمات سرویس"</string>
 
+<!-- Option in mod settings -->
+<string name="Thanks">"با تشکر از"</string>
+<string name="donate_mod">"هدیه دادن "</string>
+<string name="about_mod">"درباره ما"</string>
+<string name="tg_channel">"کانال تلگرام"</string>
+<string name="hide_view_status">"مخفی کردن نمایش افرادی که استوری رو انها را مشاهده کردید"</string>
+<string name="hide_view_status_summary">"استوری نویسنده "</string>
+<string name="direct_unread">"تیک نخوردن پیام های خوانده شده "</string>
+<string name="direct_unread_summary">"پیامهایی که دریافت میکنید، به عنوان خوانده شده علامتگذاری نشوند"</string>
+<string name="direct_typing">"مخفی کردن در حال تایپ در دایرکت "</string>
+<string name="download_folder">"پوشه دانلود"</string>
+<string name="set_download_folder">"تنظیم مسیر برای دانلود پوشه، شما می توانید بین دو قسمت مسیر اسلش قرار بدهید، اما نه در شروع و نه پایان"</string>
+<string name="select_language">"انتخاب زبان ترجمه"</string>
+<string name="two_line_direct">"دو خط پیام در دایرکت"</string>
+<string name="open_inapp">"فعال کردن مرورگر در برنامه"</string>
+<string name="double_like">"فعال کردن دو ضربه برای لایک کردن"</string>
+<string name="double_down">"دانلود رسانه ها با سه ضربه "</string>
+<string name="long_tap_zoom">"فعال کردن لمس طولانی برای زوم کردن عکس ها"</string>
+<string name="play_video_with_audio">"فیلم ها را به طور مستقیم با صدا شروع کنید"</string>
+<string name="disable_stories">"غیر فعال کردن استوری ها"</string>
+<string name="suggested_users">"دوستان توصیه شده"</string>
+<string name="suggested_users_sum">"غیرفعال کردن دوستان توصیه شده در فید خانه"</string>
+<string name="gb_enable_logging">"ارسال گزارش کرش ها "</string>
+<string name="disable_updates">"چک کردن به روز رسانی ها"</string>
+<string name="gb_more_options">"گزینه های اضافی"</string>
+<string name="gb_download_only_image_list_media">"دانلود تصاویر انتخاب شده "</string>
+
+<!-- DO NOT REMOVE "%1$s" SYMBOL -->
+<string name="gb_download_list_media">"دانلود همه %1$s تصاویر"</string>
+<string name="download">"دانلود"</string>
+<string name="previewurl">"پیش نمایش"</string>
+<string name="shareurl">"اشتراک تصویر/لینک ویدیو"</string>
+<string name="copyurl">"کپی تصویر/لینک ویدیو"</string>
+<string name="settings_feed">"تنظیمات فید و استوری ها "</string>
+<string name="carousel_start">"پست های چرخشی با اولین رسانه"</string>
+<string name="disable_ads">"غیر فعال کردن تبلیغات"</string>
+<string name="stories_sound">"استوری ها همیشه با صدا پخش شوند"</string>
+<string name="impossible_down">"امکان دانلود وجود ندارد"</string>
+<string name="gb_disable_slide">"غیر فعال کردن سوایپ به طرفین "</string>
+<string name="gb_disable_slide_Summary">"غیر فعال کردن سوایپ از چپ به راست برای باز کردن دوربین یا از چپ به راست برای باز کردن دایرکت "</string>
+
+<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
+<string name="version_about">"ورژن مود: %1$d"</string>
+<string name="author_about">"نویسنده:"</string>
+<string name="down_start">"دانلود شروع شد.."</string>
+<string name="direct_unread_off">" تیک خوانده شدن غیر فعال شد"</string>
+<string name="direct_unread_on">"تیک خوانده شدن فعال شد"</string>
+
+<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
+<string name="downloaded_media_toast">"ذخیره در"</string>
+<string name="gb_translate">"ترجمه"</string>
+<string name="done_translate">"ترجمه شد"</string>
+<string name="translate_toast">"در حال ترجمه... چند لحظه منتظر بمانید"</string>
+<string name="copypassdone">"کپی شد"</string>
+<string name="translate_to_tu">"ترجمه ترکی"</string>
+<string name="translate_to_ua">"ترجمه اوکراینی"</string>
+<string name="translate_to_ru">"ترجمه روسیه ای"</string>
+<string name="translate_to_en">"ترجمه انگلیسی "</string>
+<string name="message_too_long">"خطا:پیام خیلی طولانیه"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_thanks">"
+سازگاری با آخرین نسخه Instagram توسط: &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+GBInsta اصلی ساخته شده توسط: &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
+نسخه به روز شده توسط: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
+تشکر ویژه از:&lt;br&gt;&lt;br&gt;
+&lt;b&gt;OGMods&lt;/b&gt; - for the OGInsta&lt;br&gt;
+&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - برای ترجمه تنظیمات سفارشی به Russian&lt;br&gt;
+&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - برای ترجمه تنظیمات سفارشی into Turkish&lt;br&gt;
+&lt;b&gt;و همه کاربران &lt;/b&gt; - کسی که تست کرد,مشکلات را گزارش کرد&lt;br&gt;&lt;br&gt;
+"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_notif">"Custom options by &lt;b&gt;namok&lt;/b&gt; and &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Long press on top icons::&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Camera icon&lt;/b&gt; - on / off videos autoplay.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Direct icon&lt;/b&gt; - on / off typing status.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Long press on bottom icons:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Home Icon&lt;/b&gt;  - opens developer settings.&lt;br&gt;"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<string name="base64_extra_title">"&lt;big&gt;توجه!&lt;/big&gt;"</string>
+<string name="base64_extra_ok">"اوکی"</string>
+<string name="autoplay_on">"پخش خودکار ویدئوها فعال شد!"</string>
+<string name="autoplay_off">"پخش خودکار ویدئوها غیر فعا "</string>
+</resources>
