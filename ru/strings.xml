@@ -3,8 +3,6 @@
 <string name="settings_privacy">"Настройки приватности"</string>
 <string name="others">"Основные настройки"</string>
 <string name="service_settings">"Служебные настройки"</string>
-
-<!-- Option in mod settings -->
 <string name="Thanks">"Благодарность"</string>
 <string name="donate_mod">"Поддержать мододела"</string>
 <string name="about_mod">"О моде"</string>
@@ -30,8 +28,6 @@
 <string name="disable_updates">"Отключить проверку обновлений"</string>
 <string name="gb_more_options">"Дополнительные функции"</string>
 <string name="gb_download_only_image_list_media">"Скачать выбранное фото"</string>
-
-<!-- DO NOT REMOVE "%1$s" SYMBOL -->
 <string name="gb_download_list_media">"Скачать все %1$s"</string>
 <string name="download">"Скачать"</string>
 <string name="previewurl">"Пред-просмотр"</string>
@@ -47,15 +43,11 @@
 <string name="impossible_down">"Это нельзя скачать"</string>
 <string name="gb_disable_slide">"Отключить свайп-навигацию"</string>
 <string name="gb_disable_slide_Summary">"Отключить свайп слева направо для открытия камеры и свайп справа налево для перехода в Direct"</string>
-
-<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"Версия мода: %1$d"</string>
 <string name="author_about">"Автор мода: krogon500"</string>
 <string name="down_start">"Загрузка началась..."</string>
 <string name="direct_unread_off">"Нечиталка выключена"</string>
 <string name="direct_unread_on">"Нечиталка включена"</string>
-
-<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"Сохранено в "</string>
 <string name="gb_translate">"Перевести"</string>
 <string name="done_translate">"Переведено"</string>
@@ -70,5 +62,5 @@
 <string name="autoplay_on">"Автовоспроизведение видео включено!"</string>
 <string name="autoplay_off">"Автовоспроизведение видео выключено!"</string>
 <string name="navbar_settings">"Настройки навбара"</string>
-<string name="FollowedYou">"(ПОДСИСАН НА ВАС)"</string>
+<string name="FollowedYou">"(ПОДПИСАН НА ВАС)"</string>
 </resources>
