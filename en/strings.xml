@@ -3,6 +3,8 @@
 <string name="settings_privacy">"Privacy settings"</string>
 <string name="others">"General settings"</string>
 <string name="service_settings">"Service settings"</string>
+
+<!-- Option in mod settings -->
 <string name="Thanks">"Thanks"</string>
 <string name="donate_mod">"Donate"</string>
 <string name="about_mod">"About mod"</string>
@@ -11,11 +13,11 @@
 <string name="hide_view_status_summary">"Story author will not be able to see that you viewed his story"</string>
 <string name="direct_unread">"Do not mark messages as Read"</string>
 <string name="direct_unread_summary">"Messages, that you receive, will not be marked as Read"</string>
-<string name="direct_typing">"Hide typing status in DM"</string>
+<string name="direct_typing">"Hide typing status in Direct"</string>
 <string name="download_folder">"Download folder"</string>
 <string name="set_download_folder">"Set path to download folder. You can put slashes between parts of the path, but not at the begining not the end!"</string>
 <string name="select_language">"Select language for translation"</string>
-<string name="two_line_direct">"Two-line message box in DM"</string>
+<string name="two_line_direct">"Two-line message box in Direct"</string>
 <string name="open_inapp">"Enable in-app browser"</string>
 <string name="double_like">"Enable double-tap to like"</string>
 <string name="double_down">"Download media by triple tap"</string>
@@ -26,13 +28,15 @@
 <string name="suggested_users_sum">"Disable recommended friends in the feed"</string>
 <string name="gb_enable_logging">"Send crash reports"</string>
 <string name="disable_updates">"Check for updates"</string>
-<string name="gb_more_options">"Extra options"</string>
+<string name="gb_more_options">"Extra Options"</string>
 <string name="gb_download_only_image_list_media">"Download selected picture"</string>
+
+<!-- DO NOT REMOVE "%1$s" SYMBOL -->
 <string name="gb_download_list_media">"Download all %1$s pictures"</string>
 <string name="download">"Download"</string>
 <string name="previewurl">"Preview"</string>
-<string name="shareurl">"Share Image/Video link"</string>
-<string name="copyurl">"Copy Image/Video link"</string>
+<string name="shareurl">"Share link to Image/Video"</string>
+<string name="copyurl">"Copy link to Image/Video"</string>
 <string name="settings_feed">"Feed and stories settings"</string>
 <string name="carousel_start">"Carousel posts to first media"</string>
 <string name="disable_ads">"Disable ads"</string>
@@ -40,40 +44,55 @@
 <string name="disable_analytics">"Disable analytics"</string>
 <string name="translate_engine">"Select translation engine"</string>
 <string name="mark_seen">"Mark as Read"</string>
-<string name="direct_mark_as_unread">"Mark as Unread"</string>
-<string name="impossible_down">"
-It's not possible to download"</string>
-<string name="gb_disable_slide">"
-Disable swipe to navigate"</string>
-<string name="gb_disable_slide_Summary">"
-Disable swiping from left to right to open camera or from left to right to open DM"</string>
+<string name="impossible_down">"It's not possible to download"</string>
+<string name="gb_disable_slide">"Disable swipe to navigate"</string>
+<string name="gb_disable_slide_Summary">"Disable swiping from left to right to open camera or from left to right to open DM"</string>
+
+<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"Mod version: %1$d"</string>
-<string name="author_about">"
-Author: krogon500"</string>
+<string name="author_about">"Author: krogon500"</string>
 <string name="down_start">"Download started..."</string>
-<string name="direct_unread_off">"
-Read tick is disabled"</string>
+<string name="direct_unread_off">"Read tick is disabled"</string>
 <string name="direct_unread_on">"Read tick is enabled"</string>
-<string name="downloaded_media_toast">"
-Saved in"</string>
+
+<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
+<string name="downloaded_media_toast">"Saved in"</string>
 <string name="gb_translate">"Translate"</string>
-<string name="done_translate">"
-Translated"</string>
-<string name="translate_toast">"Translating ... Wait a moment"</string>
-<string name="copypassdone">"
-Copied successfully"</string>
-<string name="translate_to_tu">"
-Translate to Turkish"</string>
+<string name="done_translate">"Translated"</string>
+<string name="translate_toast">"Translating... Wait a moment"</string>
+<string name="copypassdone">"Copied successfully"</string>
+<string name="translate_to_tu">"Translate to Turkish"</string>
 <string name="translate_to_ua">"Translate to Ukrainian"</string>
 <string name="translate_to_ru">"Translate to Russian"</string>
-<string name="translate_to_en">"
-Translate to English"</string>
+<string name="translate_to_en">"Translate to English"</string>
 <string name="message_too_long">"Error: message is too long"</string>
-<string name="profile_picture_download_failed">"Failed to download Profile Picture"</string>
-<string name="base64_thanks">QWRhcHRhdGlvbiB0byBsYXRlc3QgdmVyc2lvbiBvZiBJbnN0YWdyYW0gYnk6IDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgpPcmlnaW5hbCBHQkluc3RhIG1hZGUgYnk6IDxiPmF0bmZhcyBob2FrPC9iPiAoT21hcik8YnI+PGJyPgpFeHRlbmRlZCB2ZXJzaW9uIGJ5OiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgpTcGVjaWFsIHRoYW5rcyB0bzo8YnI+PGJyPgo8Yj5PR01vZHM8L2I+IC0gZm9yIHRoZSBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0gZm9yIHRoZSB0cmFuc2xhdGlvbiBvZiBjdXN0b20gc2V0dGluZ3MgaW50byBSdXNzaWFuPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSBmb3IgdGhlIHRyYW5zbGF0aW9uIG9mIGN1c3RvbSBzZXR0aW5ncyBpbnRvIFR1cmtpc2g8YnI+CjxiPkFuZCB0byBhbGwgdXNlcnM8L2I+IC0gd2hvIHRlc3RlZCwgc2VudCBidWcgcmVwb3J0czxicj48YnI+</string>
-<string name="base64_extra_notif">Q3VzdG9tIG9wdGlvbnMgYnkgPGI+bmFtb2s8L2I+IGFuZCA8Yj5rcm9nb241MDA8L2I+PGJyPjxicj4KPGI+TG9uZyBwcmVzcyBvbiB0b3AgaWNvbnM6OjwvYj48YnI+CjxiPkNhbWVyYSBpY29uPC9iPiAtIG9uIC8gb2ZmIHZpZGVvcyBhdXRvcGxheS48YnI+PGJyPgo8Yj5EaXJlY3QgaWNvbjwvYj4gLSBvbiAvIG9mZiB0eXBpbmcgc3RhdHVzLjxicj48YnI+CjxiPkxvbmcgcHJlc3Mgb24gYm90dG9tIGljb25zOjwvYj48YnI+CjxiPkhvbWUgSWNvbjwvYj4gIC0gb3BlbnMgZGV2ZWxvcGVyIHNldHRpbmdzLjxicj4=</string>
-<string name="base64_extra_title">PGJpZz5BdHRlbnRpb24hPC9iaWc+</string>
-<string name="base64_extra_ok">Ok</string>
+
+<!-- Do not remove tags like <b></b> -->
+<!-- Fuzzy -->
+<string name="base64_thanks">"Adaptation to latest version of Instagram by: &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Original GBInsta made by: &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
+Extended version by: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
+Special thanks to:&lt;br&gt;&lt;br&gt;
+&lt;b&gt;OGMods&lt;/b&gt; - for the OGInsta&lt;br&gt;
+&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - for the translation of custom settings into Russian&lt;br&gt;
+&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - for the translation of custom settings into Turkish&lt;br&gt;
+&lt;b&gt;And to all users&lt;/b&gt; - who tested, sent bug reports&lt;br&gt;&lt;br&gt;"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<!-- Fuzzy -->
+<string name="base64_extra_notif">"Custom options by &lt;b&gt;namok&lt;/b&gt; and &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Long press on top icons::&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Camera icon&lt;/b&gt; - on / off videos autoplay.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Direct icon&lt;/b&gt; - on / off typing status.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Long press on bottom icons:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Home Icon&lt;/b&gt;  - opens developer settings.&lt;br&gt;"</string>
+
+<!-- Do not remove tags like <b></b> -->
+<!-- Fuzzy -->
+<string name="base64_extra_title">"&lt;big&gt;Attention!&lt;/big&gt;"</string>
+<string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Videos autoplay is enabled!"</string>
 <string name="autoplay_off">"Videos autoplay is disabled!"</string>
+<string name="navbar_settings">"NavBar settings"</string>
+<string name="FollowedYou">"(FOLLOWS YOU)"</string>
 </resources>
