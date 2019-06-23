@@ -1,1 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_privacy">"Privée"</string>
+<string name="others">"Général"</string>
+<string name="service_settings">"Services"</string>
 
+<!-- Option in mod settings -->
+<string name="Thanks">"Remerciements"</string>
+<string name="donate_mod">"Donation"</string>
+<string name="about_mod">"À propos du Mod"</string>
+<string name="tg_channel">"Chaîne Telegram"</string>
+<string name="hide_view_status">"Ne pas marquer comme Vu"</string>
+<string name="hide_view_status_summary">"L'auteur de la Story ne sera pas capable de voir que tu as vu sa Story"</string>
+<string name="direct_unread">"Ne pas marquer les messages comme lu"</string>
+<string name="direct_unread_summary">"Les messages que tu reçois ne vont pas être marqué comme lu"</string>
+<string name="direct_typing">"Cache le statut d'écriture dans les messages Direct"</string>
+<string name="download_folder">"Dossier de téléchargement"</string>
+<string name="set_download_folder">"Définissez le chemin d'accès du dossier de téléchargement. Vous pouvez mettre des slashes entre les parties du chemin, mais pas au début ni à la fin !"</string>
+<string name="select_language">"Choisi la langue pour la traduction"</string>
+<string name="open_inapp">"Activer le navigateur dans l'App"</string>
+<string name="double_like">"Activer le Double Tap pour aimer"</string>
+<string name="double_down">"Télécharge le média en tapant 3 fois"</string>
+<string name="long_tap_zoom">"Appui longtemps pour Zoomer"</string>
+<string name="play_video_with_audio">"Démarrer la vidéo directement avec le son"</string>
+<string name="disable_stories">"Désactiver les Stories"</string>
+<string name="suggested_users">"Amis recommandés"</string>
+<string name="suggested_users_sum">"Désactiver les amis recommandés dans le fil d'actualité"</string>
+<string name="gb_enable_logging">"Envoyé les rapports de crash"</string>
+<string name="disable_updates">"Vérifier les mises à jour"</string>
+<string name="gb_more_options">"Options supplémentaires"</string>
+<string name="gb_download_only_image_list_media">"Télécharger la photo sélectionner"</string>
+
+<!-- DO NOT REMOVE "%1$s" SYMBOL -->
+<string name="gb_download_list_media">"Télécharger les %1$s photos"</string>
+<string name="download">"Télécharger"</string>
+<string name="shareurl">"Partager le lien de l'Image/Vidéo"</string>
+<string name="copyurl">"Copier le lien de l'Image/Vidéo"</string>
+<string name="settings_feed">"Paramètres du fil d'actualité et des Stories"</string>
+<string name="disable_ads">"Désactiver les pubs"</string>
+<string name="stories_sound">"Jouer les Stories avec son"</string>
+<string name="disable_analytics">"Désactiver les Analytics"</string>
+<string name="translate_engine">"Sélectionner le moteur de traduction"</string>
+<string name="mark_seen">"Marquer comme lu"</string>
+<string name="impossible_down">"Ce n'est pas possible de télécharger"</string>
+<string name="gb_disable_slide">"Désactiver le glisser pour naviguer"</string>
+<string name="gb_disable_slide_Summary">"Désactiver les glissements vers la gauche ou la droite pour ouvrir la caméra ou ouvrir les messages Directs"</string>
+
+<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
+<string name="version_about">"Version du Mod : %1$d"</string>
+<string name="author_about">"Auteur : krogon500"</string>
+<string name="down_start">"Téléchargement commencé ..."</string>
+
+<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
+<string name="downloaded_media_toast">"Enregistré sous"</string>
+<string name="gb_translate">"Traduction"</string>
+<string name="done_translate">"Traduis"</string>
+<string name="translate_toast">"Traduction ... Attends un p'tit moment"</string>
+<string name="copypassdone">"Copie réussi"</string>
+<string name="translate_to_tu">"Traduire en Turque"</string>
+<string name="translate_to_ua">"Traduire en Ukrainien"</string>
+<string name="translate_to_ru">"Traduire en Russe"</string>
+<string name="translate_to_en">"Traduire en Englais"</string>
+<string name="message_too_long">"Erreur : message trop long"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_thanks">"Adaptation à la dernière version d'Instagram : &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Original GBInsta fais par : &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
+Version étendu par : &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
+Un remerciement spécial pour :&lt;br&gt;&lt;br&gt;
+&lt;b&gt;OGMods&lt;/b&gt; - pour le OGInsta&lt;br&gt;
+&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - pour la traduction des paramètres supplémentaires en Russe&lt;br&gt;
+&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - pour la traduction des paramètres supplémentaires en Turkish&lt;br&gt;
+&lt;b&gt;Et à tous les utilisateurs&lt;/b&gt; - qui ont testé, et envoyé des rapports de bugs&lt;br&gt;&lt;br&gt;"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_notif">"Paramètres supplémentaires par &lt;b&gt;namok&lt;/b&gt; et &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Appui long sur l'icône:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Icône de la caméra&lt;/b&gt; - marche / arrêt du visionnage automatique des vidéos.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Icône des messages Direct&lt;/b&gt; - marche / arrêt du statut d'écriture.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Appuie long à l'icône en haut:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Icône d'Accueil&lt;/b&gt;  - Paramètres développeurs.&lt;br&gt;"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_title">"&lt;big&gt;Attention!&lt;/big&gt;"</string>
+<string name="base64_extra_ok">"Ok"</string>
+<string name="autoplay_on">"Le visionnage automatique est activé !"</string>
+<string name="autoplay_off">"Le visionnage automatique est desactivé !"</string>
+<string name="navbar_settings">"Paramètres de la barre d'action et de la barre de navigation"</string>
+<string name="FollowedYou">"(  ABONNÉ À TOI )"</string>
+<string name="disable_shopping_items">"Désactiver le Shopping dans la Recherche"</string>
+<string name="action_bar_title">"Barre d'action"</string>
+<string name="navbar_title">"Barre de navigation"</string>
+</resources>
