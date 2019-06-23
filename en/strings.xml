@@ -66,30 +66,6 @@
 <string name="translate_to_ru">"Translate to Russian"</string>
 <string name="translate_to_en">"Translate to English"</string>
 <string name="message_too_long">"Error: message is too long"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<!-- Fuzzy -->
-<string name="base64_thanks">"Adaptation to latest version of Instagram by: &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Original GBInsta made by: &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
-Extended version by: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
-Special thanks to:&lt;br&gt;&lt;br&gt;
-&lt;b&gt;OGMods&lt;/b&gt; - for the OGInsta&lt;br&gt;
-&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - for the translation of custom settings into Russian&lt;br&gt;
-&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - for the translation of custom settings into Turkish&lt;br&gt;
-&lt;b&gt;And to all users&lt;/b&gt; - who tested, sent bug reports&lt;br&gt;&lt;br&gt;"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<!-- Fuzzy -->
-<string name="base64_extra_notif">"Custom options by &lt;b&gt;namok&lt;/b&gt; and &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Long press on top icons::&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Camera icon&lt;/b&gt; - on / off videos autoplay.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Direct icon&lt;/b&gt; - on / off typing status.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Long press on bottom icons:&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Home Icon&lt;/b&gt;  - opens developer settings.&lt;br&gt;"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<!-- Fuzzy -->
-<string name="base64_extra_title">"&lt;big&gt;Attention!&lt;/big&gt;"</string>
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Videos autoplay is enabled!"</string>
 <string name="autoplay_off">"Videos autoplay is disabled!"</string>
