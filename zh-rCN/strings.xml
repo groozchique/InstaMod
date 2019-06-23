@@ -9,8 +9,8 @@
 <string name="donate_mod">"捐赠"</string>
 <string name="about_mod">"关于本修改版"</string>
 <string name="tg_channel">"Telegram 频道"</string>
-<string name="hide_view_status">"将Stories保持未读"</string>
-<string name="hide_view_status_summary">"对方无法看到你读过了它的Story"</string>
+<string name="hide_view_status">"不标记限时动态为已读"</string>
+<string name="hide_view_status_summary">"对方无法得知你看过了它的限时动态"</string>
 <string name="direct_unread">"私信消息保持未读"</string>
 <string name="direct_unread_summary">"已经收到的私信,不会将它标记为已读"</string>
 <string name="direct_typing">"在私信中隐藏你的输入状态"</string>
@@ -20,10 +20,10 @@
 <string name="two_line_direct">"私信中聊天框工具单列一行"</string>
 <string name="open_inapp">"启用内置浏览器"</string>
 <string name="double_like">"启用双击点赞"</string>
-<string name="double_down">"三击下载"</string>
-<string name="long_tap_zoom">"长按缩放图片"</string>
-<string name="play_video_with_audio">"播放视频时自动开启声音"</string>
-<string name="disable_stories">"关闭 Story"</string>
+<string name="double_down">"启用三击下载"</string>
+<string name="long_tap_zoom">"启用长按图片缩放"</string>
+<string name="play_video_with_audio">"播放视频自动开启声音"</string>
+<string name="disable_stories">"关闭限时动态"</string>
 <string name="suggested_users">"推荐用户"</string>
 <string name="suggested_users_sum">"关闭首页中的推荐用户"</string>
 <string name="gb_enable_logging">"发送崩溃日志"</string>
@@ -32,7 +32,7 @@
 <string name="gb_download_only_image_list_media">"下载所选的图片"</string>
 
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
-<string name="gb_download_list_media">"下载所有图片"</string>
+<string name="gb_download_list_media">"下载所有共%1$s张图片"</string>
 <string name="download">"下载"</string>
 <string name="previewurl">"打开"</string>
 <string name="shareurl">"分享图片或视频地址"</string>
@@ -40,11 +40,10 @@
 <string name="settings_feed">"首页和Story设置"</string>
 <string name="carousel_start">"不自动跳转保持在第一个视频"</string>
 <string name="disable_ads">"关闭广告"</string>
-<string name="stories_sound">"播放Story开启声音"</string>
+<string name="stories_sound">"播放限时动态自动开启声音"</string>
 <string name="disable_analytics">"关闭统计"</string>
 <string name="translate_engine">"选择翻译引擎"</string>
-<string name="mark_seen">"标记为已读"</string>
-<string name="direct_mark_as_unread">"标记为未读"</string>
+<string name="mark_seen">"消息标记为已读"</string>
 <string name="impossible_down">"无法下载"</string>
 <string name="gb_disable_slide">"关闭滑动手势"</string>
 <string name="gb_disable_slide_Summary">"关闭右滑进入相机和左滑进入私信"</string>
@@ -67,17 +66,9 @@
 <string name="translate_to_ru">"翻译为俄语"</string>
 <string name="translate_to_en">"翻译为英语"</string>
 <string name="message_too_long">"错误：消息过长"</string>
-<string name="profile_picture_download_failed">"无法下载头像"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_thanks">55SxPGI+a3JvZ29uNTAwPC9iPuS/ruaUueeahOmAgumFjeacgOaWsOeJiOacrOeahCBJbnN0YWdyYW0gPGJyPjxicj4K5Y6f5aeLIEdCSW5zdGEg5L2c6ICFOiA8Yj5hdG5mYXMgaG9hazwvYj4gKE9tYXIpPGJyPjxicj4K5aKe5by654mI5pys5L2c6ICFOiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgrnibnliKvpuKPosKI6PGJyPjxicj4KPGI+T0dNb2RzPC9iPiAtIOWItuS9nOeahCBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0g5L+E6K+t57+76K+R6ICFPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSDlnJ/ogLPlhbbor63nv7vor5HogIU8YnI+CjxiPuWFtuS7luaJgOacieeahDwvYj4gLSDmtYvor5XmiqXlkYpCVUfnmoTnlKjmiLc8YnI+PGJyPg==</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_notif">55SxIDxiPm5hbW9rPC9iPiBhbmQgPGI+a3JvZ29uNTAwPC9iPuWItuS9nOeahOS/ruaUuemAiemhuTxicj48YnI+IAo8Yj7plb/mjInku6XkuIvpobbmoI/lm77moIc6OjwvYj48YnI+IDxiPuebuOacujwvYj4gLSDlvIDlkK8gLyDlhbPpl60g6KeG6aKR6Ieq5Yqo5pKt5pS+PGJyPjxicj4gPGI+56eB5L+hPC9iPiAtIOW8gOWQryAvIOWFs+mXrSDlsZXnpLrovpPlhaXnirbmgIEgPGJyPjxicj4gPGI+6ZW/5oyJ5Lul5LiL5L2O5qCP5Zu+5qCHOjwvYj48YnI+IDxiPuS4u+mhtTwvYj4gLSDmiZPlvIDlvIDlj5HogIXpgInpobkuPGJyPg==</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_title">PGJpZz7ms6jmhI8hPC9iaWc+</string>
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"自动播放视频开启！"</string>
 <string name="autoplay_off">"自动播放视频关闭！"</string>
+<string name="navbar_settings">"底部导航栏设置"</string>
+<string name="FollowedYou">"（关注了你)"</string>
 </resources>
