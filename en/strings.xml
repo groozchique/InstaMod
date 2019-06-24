@@ -41,7 +41,6 @@
 <string name="carousel_start">"Carousel posts to first media"</string>
 <string name="disable_ads">"Disable ads"</string>
 <string name="stories_sound">"Play stories always with sound"</string>
-<string name="disable_analytics">"Disable analytics"</string>
 <string name="translate_engine">"Select translation engine"</string>
 <string name="mark_seen">"Mark as Read"</string>
 <string name="impossible_down">"It's not possible to download"</string>
@@ -66,9 +65,13 @@
 <string name="translate_to_ru">"Translate to Russian"</string>
 <string name="translate_to_en">"Translate to English"</string>
 <string name="message_too_long">"Error: message is too long"</string>
-<string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Videos autoplay is enabled!"</string>
 <string name="autoplay_off">"Videos autoplay is disabled!"</string>
-<string name="navbar_settings">"NavBar settings"</string>
+
+<!-- This string is changed too, please, re-translate it -->
+<string name="navbar_settings">"Action Bar and NavBar settings"</string>
 <string name="FollowedYou">"(FOLLOWS YOU)"</string>
+<string name="disable_shopping_items">"Disable shopping items in Search"</string>
+<string name="action_bar_title">"Action Bar"</string>
+<string name="navbar_title">"Navigation Bar"</string>
 </resources>
