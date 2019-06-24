@@ -41,7 +41,6 @@
 <string name="carousel_start">"İlk Medyayı Yayınla"</string>
 <string name="disable_ads">"Reklamları Devredışı Bırak"</string>
 <string name="stories_sound">"Hikayeleri Sesli Oynat"</string>
-<string name="disable_analytics">"Analizleri devre dışı bırak"</string>
 <string name="translate_engine">"Çeviri motorunu seç"</string>
 <string name="mark_seen">"Görüldü olarak işaretle"</string>
 <string name="impossible_down">"İndirmek mümkün değil !"</string>
@@ -66,9 +65,15 @@
 <string name="translate_to_ru">"Rusçaya Çevir"</string>
 <string name="translate_to_en">"İngilizceye Çevir"</string>
 <string name="message_too_long">"Hata: Mesaj çok uzun"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_title">"*placeholder, don't touch anything*"</string>
 <string name="base64_extra_ok">"TAMAM"</string>
 <string name="autoplay_on">"Videoları otomatik oynatma etkin!"</string>
 <string name="autoplay_off">"Videoları otomatik oynatma devredışı!"</string>
 <string name="navbar_settings"></string>
 <string name="FollowedYou">"(Seni Takip Ediyor)"</string>
+<string name="disable_shopping_items"></string>
+<string name="action_bar_title"></string>
+<string name="navbar_title"></string>
 </resources>
