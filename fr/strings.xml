@@ -17,6 +17,7 @@
 <string name="download_folder">"Dossier de téléchargement"</string>
 <string name="set_download_folder">"Définissez le chemin d'accès du dossier de téléchargement. Vous pouvez mettre des slashes entre les parties du chemin, mais pas au début ni à la fin !"</string>
 <string name="select_language">"Choisi la langue pour la traduction"</string>
+<string name="two_line_direct"></string>
 <string name="open_inapp">"Activer le navigateur dans l'App"</string>
 <string name="double_like">"Activer le Double Tap pour aimer"</string>
 <string name="double_down">"Télécharge le média en tapant 3 fois"</string>
@@ -33,13 +34,13 @@
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
 <string name="gb_download_list_media">"Télécharger les %1$s photos"</string>
 <string name="download">"Télécharger"</string>
+<string name="previewurl"></string>
 <string name="shareurl">"Partager le lien de l'Image/Vidéo"</string>
 <string name="copyurl">"Copier le lien de l'Image/Vidéo"</string>
 <string name="settings_feed">"Paramètres du fil d'actualité et des Stories"</string>
+<string name="carousel_start"></string>
 <string name="disable_ads">"Désactiver les pubs"</string>
 <string name="stories_sound">"Jouer les Stories avec son"</string>
-
-<!-- Fuzzy -->
 <string name="disable_analytics">"Désactiver les Analytiques"</string>
 <string name="translate_engine">"Sélectionner le moteur de traduction"</string>
 <string name="mark_seen">"Marquer comme lu"</string>
@@ -51,6 +52,8 @@
 <string name="version_about">"Version du Mod : %1$d"</string>
 <string name="author_about">"Auteur : krogon500"</string>
 <string name="down_start">"Téléchargement commencé..."</string>
+<string name="direct_unread_off"></string>
+<string name="direct_unread_on"></string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"Enregistrer sous"</string>
@@ -65,18 +68,13 @@
 <string name="message_too_long">"Erreur: message trop long"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_thanks">"QWRhcHRhdGlvbiDDoCBsYSBkZXJuacOocmUgdmVyc2lvbiBkJ0luc3RhZ3JhbTogPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+Ck9yaWdpbmFsIEdCSW5zdGEgZmFpcyBwYXI6IDxiPmF0bmZhcyBob2FrPC9iPiAoT21hcik8YnI+PGJyPgpWZXJzaW9uIMOpdGVuZHUgcGFyOiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgpVbiByZW1lcmNpZW1lbnQgc3DDqWNpYWwgcG91cjo8YnI+PGJyPgo8Yj5PR01vZHM8L2I+IC0gcG91ciBsZSBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0gcG91ciBsYSB0cmFkdWN0aW9uIGRlcyBwYXJhbcOodHJlcyBzdXBwbMOpbWVudGFpcmVzIGVuIFJ1c3NlPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSBwb3VyIGxhIHRyYWR1Y3Rpb24gZGVzIHBhcmFtw6h0cmVzIHN1cHBsw6ltZW50YWlyZXMgZW4gVHVya2lzaDxicj4KPGI+RXQgw6AgdG91cyBsZXMgdXRpbGlzYXRldXJzPC9iPiAtIHF1aSBvbnQgdGVzdMOpLCBldCBlbnZvecOpIGRlcyByYXBwb3J0cyBkZSBidWdzPGJyPjxicj4="</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_extra_notif">"UGFyYW3DqHRyZXMgc3VwcGzDqW1lbnRhaXJlcyBwYXIgPGI+bmFtb2s8L2I+IGV0IDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgo8Yj5BcHB1aSBsb25nIHN1ciBsJ2ljw7RuZTo8L2I+PGJyPgo8Yj5JY8O0bmUgZGUgbGEgY2Ftw6lyYTwvYj4gLSBtYXJjaGUvYXJyw6p0IGR1IHZpc2lvbm5hZ2UgYXV0b21hdGlxdWUgZGVzIHZpZMOpb3M8YnI+PGJyPgo8Yj5JY8O0bmUgZGVzIG1lc3NhZ2VzIERpcmVjdDwvYj4gLSBtYXJjaGUvYXJyw6p0IGR1IHN0YXR1dCBkJ8OpY3JpdHVyZTxicj48YnI+CjxiPkFwcHVpZSBsb25nIMOgIGwnaWPDtG5lIGVuIGhhdXQ6PC9iPjxicj4KPGI+SWPDtG5lIGQnQWNjdWVpbDwvYj4gIC0gUGFyYW3DqHRyZXMgZMOpdmVsb3BwZXVyczxicj4="</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_extra_title">"PGJpZz5BdHRlbnRpb24hPC9iaWc+"</string>
-
-<!-- Fuzzy -->
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Le visionnage automatique est activé !"</string>
 <string name="autoplay_off">"Le visionnage automatique est désactivé !"</string>
