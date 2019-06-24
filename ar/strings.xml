@@ -1,1 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_privacy">"إعدادات الخصوصية"</string>
+<string name="others">"الاعدادات العامة"</string>
+<string name="service_settings">"إعدادات الخدمة"</string>
 
+<!-- Option in mod settings -->
+<string name="Thanks">"شکراً"</string>
+<string name="donate_mod">"التبرع"</string>
+<string name="about_mod">"حول المود"</string>
+<string name="tg_channel">"قناة التلغرام"</string>
+<string name="hide_view_status">"مشاهدة story بشكل مخفي"</string>
+<string name="hide_view_status_summary">"ناشر القصة (story) لن يكون قادر على معرفة انك قمت بمشاهدة قصته"</string>
+<string name="direct_unread">"مشاهدة الرسائل بشكل مخفي"</string>
+<string name="direct_unread_summary">"لن يعرف مرسل الرسالة بأنك قرأت الرسالة"</string>
+<string name="direct_typing"></string>
+<string name="download_folder">"مجلد التحميل"</string>
+<string name="set_download_folder"></string>
+<string name="select_language">"اختر لغة للترجمة"</string>
+<string name="two_line_direct"></string>
+<string name="open_inapp">"تشغيل متصفح داخل التطبيق"</string>
+<string name="double_like">"النقر المزدوج للاعجاب (like)"</string>
+<string name="double_down">"التحميل بواسطة ثلاث نقرات"</string>
+<string name="long_tap_zoom">"الضغط المطول لتكبير الصور"</string>
+<string name="play_video_with_audio">"تشغيل مباشر للفيديو مع الصوت"</string>
+<string name="disable_stories">"الغاء تفعيل القصص (story)"</string>
+<string name="suggested_users">"الاصدقاء المقترحون"</string>
+<string name="suggested_users_sum">"الغاء تفعيل الاصدقاء المقترحون في اَخر الاخبار"</string>
+<string name="gb_enable_logging"></string>
+<string name="disable_updates">"التحقق من التحديثات"</string>
+<string name="gb_more_options">"خيارات اضافية"</string>
+<string name="gb_download_only_image_list_media">"تحميل الصورة المحددة"</string>
+
+<!-- DO NOT REMOVE "%1$s" SYMBOL -->
+<string name="gb_download_list_media">"تحميل جميع %1$s الصور"</string>
+<string name="download">"التحميل"</string>
+<string name="previewurl">"المعاينة"</string>
+<string name="shareurl">"مشاركة الرابط صورة/فيديو"</string>
+<string name="copyurl">"نسخ الرابط صورة/فيديو"</string>
+<string name="settings_feed">"اعدادات القصص و اَخر الاخبار"</string>
+<string name="carousel_start"></string>
+<string name="disable_ads">"تعطيل الإعلانات"</string>
+<string name="stories_sound">"شغل القصص دائما مع الصوت"</string>
+<string name="disable_analytics">"تعطيل التحليلات"</string>
+<string name="translate_engine">"حدد محرك الترجمة"</string>
+<string name="mark_seen">"التعليم ك مقروءة"</string>
+<string name="impossible_down">"لا يمكن التنزيل"</string>
+<string name="gb_disable_slide">"الغاء التنقل بواسطة التمرير"</string>
+<string name="gb_disable_slide_Summary">"الغاء التمرير من اليسار الى اليمين لفتح الكامرة او من اليمين لليسار لفتح الرسائل"</string>
+
+<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
+<string name="version_about">"نسخة المود : %1$d"</string>
+<string name="author_about">"المؤلف : krogon500"</string>
+<string name="down_start">"بدأ التنزيل ..."</string>
+<string name="direct_unread_off"></string>
+<string name="direct_unread_on"></string>
+
+<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
+<string name="downloaded_media_toast">"تم الحفظ في"</string>
+<string name="gb_translate">"ترجم"</string>
+<string name="done_translate">"مترجَم"</string>
+<string name="translate_toast">"جاري الترجمة ... انتظر لحظة"</string>
+<string name="copypassdone">"تم النسخ بنجاح"</string>
+<string name="translate_to_tu">"ترجمة إلى التركية"</string>
+<string name="translate_to_ua">"ترجمة إلى الأوكرانية"</string>
+<string name="translate_to_ru">"ترجمة إلى الروسية"</string>
+<string name="translate_to_en">"ترجمة إلى الإنجليزية"</string>
+<string name="message_too_long">"الرسالة طويلة جداً"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_thanks"></string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_notif"></string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_title">"PGJpZz7Yp9mE2KXZhtiq2KjYp9mHICE8L2JpZz4="</string>
+<string name="base64_extra_ok">"موافقة"</string>
+<string name="autoplay_on">"التشغيل التلقائي للفيديو مُفعل "</string>
+<string name="autoplay_off">"التشغيل التلقائي للفيديو موقف"</string>
+<string name="navbar_settings"></string>
+<string name="FollowedYou">"يتابعك"</string>
+<string name="disable_shopping_items">"ايقاف عناصر التسوق في البحث"</string>
+<string name="action_bar_title"></string>
+<string name="navbar_title"></string>
+</resources>
