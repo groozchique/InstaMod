@@ -43,8 +43,6 @@
 <string name="carousel_start">"پست های چرخشی با اولین رسانه"</string>
 <string name="disable_ads">"غیر فعال کردن تبلیغات"</string>
 <string name="stories_sound">"استوری ها همیشه با صدا پخش شوند"</string>
-
-<!-- Fuzzy -->
 <string name="disable_analytics">"غیرفعال کردن تجزیه و تحلیل"</string>
 <string name="translate_engine">"موتور ترجمه را انتخاب کنید"</string>
 <string name="mark_seen">"به عنوان خوانده شده علامت بزن"</string>
@@ -72,21 +70,19 @@
 <string name="message_too_long">"خطا:پیام خیلی طولانیه"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_thanks">"2LPYp9iy2q/Yp9ix24wg2KjYpyDYotiu2LHbjNmGINmG2LPYrtmHIEluc3RhZ3JhbSDYqtmI2LPYtzogPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+CkdCSW5zdGEg2KfYtdmE24wg2LPYp9iu2KrZhyDYtNiv2Ycg2KrZiNiz2Lc6IDxiPmF0bmZhcyBob2FrPC9iPiAoT21hcik8YnI+PGJyPgrZhtiz2K7ZhyDYqNmHINix2YjYsiDYtNiv2Ycg2KrZiNiz2Lc6IDxicj48Yj5uYW1vazwvYj4gKE11aGFtbWFkKTxicj48YnI+Ctiq2LTaqdixINmI24zamNmHINin2LI6PGJyPjxicj4KPGI+T0dNb2RzPC9iPiAtIGZvciB0aGUgT0dJbnN0YTxicj4KPGI+0KHQstGP0YLQvtC5X9Ce0YLQtdGGX9Cc0LDQutGKPC9iPiAtINio2LHYp9uMINiq2LHYrNmF2Ycg2KrZhti424zZhdin2Kog2LPZgdin2LHYtNuMINio2YcgUnVzc2lhbjxicj4KPGI+TWFtaWN1ayAmIEpva2VycjMzICYgSW50YW5TdVI8L2I+IC0g2KjYsdin24wg2KrYsdis2YXZhyDYqtmG2LjbjNmF2KfYqiDYs9mB2KfYsdi024wgaW50byBUdXJraXNoPGJyPgo8Yj7ZiCDZh9mF2Ycg2qnYp9ix2KjYsdin2YYgPC9iPiAtINqp2LPbjCDaqdmHINiq2LPYqiDaqdix2K8s2YXYtNqp2YTYp9iqINix2Kcg2q/Ystin2LHYtCDaqdix2K88YnI+PGJyPg=="</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_extra_notif">"2q/YstuM2YbZhyDZh9in24wg2LPZgdin2LHYtNuMINiq2YjYs9i3IDxiPm5hbW9rPC9iPiBhbmQgPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+CjxiPtmB2LTYp9ixINiv2KfYr9mGINin24zaqdmI2YYg2YfYp9uMINio2KfZhNinOjo8L2I+PGJyPgo8Yj7Yp9uM2qnZiNmGINiv2YjYsdio24zZhjwvYj4gLSDYsdmI2LTZhiAvINiu2KfZhdmI2LQg2qnYsdiv2YYg2YjbjNiv24zZiNmH2Kcg2KjZhyDYtdmI2LHYqiDYrtmI2K/aqdin2LEuPGJyPjxicj4KPGI+2KfbjNqp2YjZhiDYr9in24zYsdqp2Ko8L2I+IC0g2LHZiNi02YYgLyDYrtin2YXZiNi0INmI2LbYuduM2Kog2KrYp9uM2b4uPGJyPjxicj4KPGI+2Ybar9mHINiv2KfYtNiq2YYg2KfbjNqp2YjZhiDZh9in24wg2b7Yp9uM24zZhjo8L2I+PGJyPgo8Yj7Yp9uM2qnZiNmGINiu2KfZhtmHPC9iPiAgLSDYqNin2LIg2qnYsdiv2YYg2KrZhti424zZhdin2Kog2KjYsdmG2KfZhdmHINmG2YjbjNizLjxicj4="</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_extra_title">"PGJpZz7YqtmI2KzZhyE8L2JpZz4="</string>
-
-<!-- Fuzzy -->
 <string name="base64_extra_ok">"اوکی"</string>
 <string name="autoplay_on">"پخش خودکار ویدئوها فعال!"</string>
 <string name="autoplay_off">"پخش خودکار ویدئوها غیرفعال!"</string>
-<string name="navbar_settings">"تنظیمات نوار ناوبری"</string>
+<string name="navbar_settings">"تنظیمات نوار ناوبری و نوارعمل"</string>
 <string name="FollowedYou">"(تو را دنبال می کند)"</string>
+<string name="disable_shopping_items">"غیرفعال کردن ایتم های خرید در جستوجو"</string>
+<string name="action_bar_title">"نوار عمل"</string>
+<string name="navbar_title">"نوار ناوبری"</string>
 </resources>
