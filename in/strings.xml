@@ -41,6 +41,9 @@
 <string name="carousel_start">"Posting korsel ke media pertama"</string>
 <string name="disable_ads">"Nonaktifkan iklan"</string>
 <string name="stories_sound">"Putar cerita selalu dengan suara"</string>
+
+<!-- Fuzzy -->
+<string name="disable_analytics">"Nonaktifkan analistik"</string>
 <string name="translate_engine">"Pilih mesin penterjemah"</string>
 <string name="mark_seen">"Tandai sudah dibaca"</string>
 <string name="impossible_down">"Tidak mungkin diunduh"</string>
@@ -65,6 +68,21 @@
 <string name="translate_to_ru">"Terjemahkan ke Rusia"</string>
 <string name="translate_to_en">"Terjemahkan ke Inggris"</string>
 <string name="message_too_long">"Eror: pesan terlalu panjang"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<!-- Fuzzy -->
+<string name="base64_thanks">"QWRhcHRhc2kga2UgdmVyc2kgdGVyYmFydSBJbnN0YWdyYW0gb2xlaDogPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+CkdCSW5zdGEgYXNsaSBkaWJ1YXQgb2xlaDogPGI+QXRuZmFzIGhvYWs8L2I+IChPbWFyKTxicj48YnI+ClZlcnNpIGRpcGVycGFuamFuZyBvbGVoOiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgpUZXJpbWEga2FzaWgga2h1c3VzIHVudHVrOjxicj48YnI+CjxiPk9HTW9kczwvYj4gLSB1bnR1ayBPR0luc3RhPGJyPgo8Yj5EaW1hcyBBbGFtIEBtYXpkaW1zPC9iPiAtIHVudHVrIHRlcmplbWFoYW4gcGVuZ2F0dXJhbiBraHVzdXMga2UgZGFsYW0gYmFoYXNhIEluZG9uZXNpYTxicj4KPGI+0KHQstGP0YLQvtC5X9Ce0YLQtdGGX9Cc0LDQutGKPC9iPiAtIHRlcmplbWFoYW4gcGVuZ2F0dXJhbiBraHVzdXMga2UgZGFsYW0gYmFoYXNhIFJ1c2lhPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSB1bnR1ayB0ZXJqZW1haGFuIHBlbmdhdHVyYW4ga2h1c3VzIGtlIGRhbGFtIGJhaGFzYSBUdXJraTxicj4KPGI+RGFuIHVudHVrIHNlbXVhIHBlbmdndW5hPC9iPiAtIHlhbmcgbWVuZ3VqaSwgbWVuZ2lyaW0gbGFwb3JhbiBidWc8YnI+PGJyPg=="</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<!-- Fuzzy -->
+<string name="base64_extra_notif">"T3BzaSBraHVzdXMgb2xlaCA8Yj5uYW1vazwvYj4gZGFuIDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgo8Yj5UZWthbiBsYW1hIHBhZGEgaWtvbiBhdGFzOjwvYj48YnI+CjxiPklrb24ga2FtZXJhPC9iPiAtIG9uL29mZiBwZW11dGFyIHZpZGVvIG90b21hdGlzLjxicj48YnI+CjxiPklrb24gbGFuZ3N1bmc8L2I+IC0gb24vb2ZmIHBlbmdldGlrYW4gc3RhdHVzPGJyPjxicj4KPGI+VGVrYW4gbGFtYSBwYWRhIGlrb24gYmF3YWg6PC9iPjxicj4KPGI+SWtvbiBiZXJhbmRhPC9iPiAgLSBidWthIHBlbmdhdHVyYW4gZGV2ZWxvcGVyPGJyPg=="</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<!-- Fuzzy -->
+<string name="base64_extra_title">"PGJpZz5QZXJoYXRpYW4hPC9iaWc+"</string>
+
+<!-- Fuzzy -->
+<string name="base64_extra_ok">"Oke"</string>
 <string name="autoplay_on">"Pemutar video otomatis diaktifkan"</string>
 <string name="autoplay_off">"Pemutar video otomatis dinonaktifkan"</string>
 <string name="navbar_settings">"Pengaturan Bar Atas &amp; Navigasi"</string>
