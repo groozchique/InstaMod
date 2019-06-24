@@ -41,8 +41,6 @@
 <string name="carousel_start">"Carousel posts to first media"</string>
 <string name="disable_ads">"Disable ads"</string>
 <string name="stories_sound">"Play stories always with sound"</string>
-
-<!-- Fuzzy -->
 <string name="disable_analytics">"Disable analytics"</string>
 <string name="translate_engine">"Select translation engine"</string>
 <string name="mark_seen">"Mark as Read"</string>
@@ -92,8 +90,6 @@ Special thanks to:&lt;br&gt;&lt;br&gt;
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
 <!-- Fuzzy -->
 <string name="base64_extra_title">"&lt;big&gt;Attention!&lt;/big&gt;"</string>
-
-<!-- Fuzzy -->
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Videos autoplay is enabled!"</string>
 <string name="autoplay_off">"Videos autoplay is disabled!"</string>
