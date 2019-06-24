@@ -41,7 +41,6 @@
 <string name="carousel_start">"不自动跳转保持在第一个视频"</string>
 <string name="disable_ads">"关闭广告"</string>
 <string name="stories_sound">"播放限时动态自动开启声音"</string>
-<string name="disable_analytics">"关闭统计"</string>
 <string name="translate_engine">"选择翻译引擎"</string>
 <string name="mark_seen">"消息标记为已读"</string>
 <string name="impossible_down">"无法下载"</string>
@@ -66,9 +65,11 @@
 <string name="translate_to_ru">"翻译为俄语"</string>
 <string name="translate_to_en">"翻译为英语"</string>
 <string name="message_too_long">"错误：消息过长"</string>
-<string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"自动播放视频开启！"</string>
 <string name="autoplay_off">"自动播放视频关闭！"</string>
-<string name="navbar_settings">"底部导航栏设置"</string>
+<string name="navbar_settings">"导航栏设置"</string>
 <string name="FollowedYou">"（关注了你)"</string>
+<string name="disable_shopping_items">"关闭搜索中的商品"</string>
+<string name="action_bar_title">"顶部导航栏"</string>
+<string name="navbar_title">"底部导航栏"</string>
 </resources>
