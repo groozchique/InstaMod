@@ -41,6 +41,7 @@
 <string name="carousel_start">"İlk Medyayı Yayınla"</string>
 <string name="disable_ads">"Reklamları Devredışı Bırak"</string>
 <string name="stories_sound">"Hikayeleri Sesli Oynat"</string>
+<string name="disable_analytics">"Analizleri devre dışı bırak"</string>
 <string name="translate_engine">"Çeviri motorunu seç"</string>
 <string name="mark_seen">"Görüldü olarak işaretle"</string>
 <string name="impossible_down">"İndirmek mümkün değil !"</string>
@@ -67,7 +68,13 @@
 <string name="message_too_long">"Hata: Mesaj çok uzun"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<string name="base64_extra_title">"*placeholder, don't touch anything*"</string>
+<string name="base64_thanks">"SW5zdGFncmFtJ8SxbiBzb24gc8O8csO8bcO8bmUgYWRhcHRhc3lvbjogPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+DQpPcmppbmFsIEdCSW5zdGEgeWFwxLFtY8Sxc8SxOiA8Yj5hdG5mYXMgaG9hazwvYj4gKE9tYXIpPGJyPjxicj4NCkdlbmnFn2xldGlsbWnFnyB2ZXJzaXlvbjogPGJyPjxiPm5hbW9rPC9iPiAoTXVoYW1tYWQpPGJyPjxicj4NCsOWemVsIFRlxZ9la2vDvHI6PGJyPjxicj4NCjxiPk9HTW9kczwvYj4gLU9HSW5zdGEgacOnaW48YnI+DQo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0gw5Z6ZWwgYXlhcmxhcsSxbiBSdXPDp2EgZGlsaW5lIMOnZXZpcmlzaTxicj4NCjxiPk1hbWljdWsgJiBKb2tlcnIzMyAmIEludGFuU3VSPC9iPiAtIMOWemVsIG9sYXJhayBUw7xya8OnZSDDp2V2aXJpPGJyPg0KPGI+VGVzdCBlZGVubGVyIHZlIGhhdGEgYmlsZGlyZW5sZXJlPC9iPiAtdmUgdMO8bSBrdWxsYW7EsWPEsWxhcmEgPGJyPjxicj4="</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_notif">"w5Z6ZWwgU2XDp2VuZWtsZXIgeWFwxLFtY8Sxc8SxPGI+bmFtb2s8L2I+PGJyPjxicj4NCjxiPlNpbWdlbGVyZSB1enVuIGJhc8Sxbjo8L2I+PGJyPg0KPGI+S2FtZXJhIMSwa29udTwvYj4gLSBBw6cgLyBLYXBhdCB2aWRlb2xhcsSxIG90b21hdGlrIG95bmF0bWEuPGJyPjxicj4NCjxiPkV2IMSwa29udTwvYj4gIC0gR2VsacWfdGlyaWNpbGVyIGnDp2luIGF5YXJsYXLEsSBhw6dhci48YnI=&lt;"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_title">"PGJpZz5CaWxnaWxlbmRpcm1lITwvYmln"</string>
 <string name="base64_extra_ok">"TAMAM"</string>
 <string name="autoplay_on">"Videoları otomatik oynatma etkin!"</string>
 <string name="autoplay_off">"Videoları otomatik oynatma devredışı!"</string>
