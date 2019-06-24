@@ -41,8 +41,6 @@
 <string name="carousel_start">"Posting korsel ke media pertama"</string>
 <string name="disable_ads">"Nonaktifkan iklan"</string>
 <string name="stories_sound">"Putar cerita selalu dengan suara"</string>
-
-<!-- Fuzzy -->
 <string name="disable_analytics">"Nonaktifkan analistik"</string>
 <string name="translate_engine">"Pilih mesin penterjemah"</string>
 <string name="mark_seen">"Tandai sudah dibaca"</string>
@@ -70,18 +68,27 @@
 <string name="message_too_long">"Eror: pesan terlalu panjang"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
-<string name="base64_thanks">"QWRhcHRhc2kga2UgdmVyc2kgdGVyYmFydSBJbnN0YWdyYW0gb2xlaDogPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+CkdCSW5zdGEgYXNsaSBkaWJ1YXQgb2xlaDogPGI+QXRuZmFzIGhvYWs8L2I+IChPbWFyKTxicj48YnI+ClZlcnNpIGRpcGVycGFuamFuZyBvbGVoOiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgpUZXJpbWEga2FzaWgga2h1c3VzIHVudHVrOjxicj48YnI+CjxiPk9HTW9kczwvYj4gLSB1bnR1ayBPR0luc3RhPGJyPgo8Yj5EaW1hcyBBbGFtIEBtYXpkaW1zPC9iPiAtIHVudHVrIHRlcmplbWFoYW4gcGVuZ2F0dXJhbiBraHVzdXMga2UgZGFsYW0gYmFoYXNhIEluZG9uZXNpYTxicj4KPGI+0KHQstGP0YLQvtC5X9Ce0YLQtdGGX9Cc0LDQutGKPC9iPiAtIHRlcmplbWFoYW4gcGVuZ2F0dXJhbiBraHVzdXMga2UgZGFsYW0gYmFoYXNhIFJ1c2lhPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSB1bnR1ayB0ZXJqZW1haGFuIHBlbmdhdHVyYW4ga2h1c3VzIGtlIGRhbGFtIGJhaGFzYSBUdXJraTxicj4KPGI+RGFuIHVudHVrIHNlbXVhIHBlbmdndW5hPC9iPiAtIHlhbmcgbWVuZ3VqaSwgbWVuZ2lyaW0gbGFwb3JhbiBidWc8YnI+PGJyPg=="</string>
+<string name="base64_thanks">"Adaptasi ke versi terbaru Instagram oleh: &lt;b&gt;Krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+GBInsta asli dibuat oleh: &lt;b&gt;Atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
+Versi diperpanjang oleh: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
+Terima kasih khusus untuk:&lt;br&gt;&lt;br&gt;
+&lt;b&gt;OGMods&lt;/b&gt; - untuk OGInsta&lt;br&gt;
+&lt;b&gt;Dimas Alam @mazdims&lt;/b&gt; - untuk terjemahan pengaturan khusus ke dalam bahasa Indonesia&lt;br&gt;
+&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - terjemahan pengaturan khusus ke dalam bahasa Rusia&lt;br&gt;
+&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - untuk terjemahan pengaturan khusus ke dalam bahasa Turki&lt;br&gt;
+&lt;b&gt;Dan untuk semua pengguna&lt;/b&gt; - yang menguji, mengirim laporan bug&lt;br&gt;&lt;br&gt;
+base64_thanks"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
-<string name="base64_extra_notif">"T3BzaSBraHVzdXMgb2xlaCA8Yj5uYW1vazwvYj4gZGFuIDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgo8Yj5UZWthbiBsYW1hIHBhZGEgaWtvbiBhdGFzOjwvYj48YnI+CjxiPklrb24ga2FtZXJhPC9iPiAtIG9uL29mZiBwZW11dGFyIHZpZGVvIG90b21hdGlzLjxicj48YnI+CjxiPklrb24gbGFuZ3N1bmc8L2I+IC0gb24vb2ZmIHBlbmdldGlrYW4gc3RhdHVzPGJyPjxicj4KPGI+VGVrYW4gbGFtYSBwYWRhIGlrb24gYmF3YWg6PC9iPjxicj4KPGI+SWtvbiBiZXJhbmRhPC9iPiAgLSBidWthIHBlbmdhdHVyYW4gZGV2ZWxvcGVyPGJyPg=="</string>
+<string name="base64_extra_notif">"Opsi khusus oleh &lt;b&gt;namok&lt;/b&gt; dan &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Tekan lama pada ikon atas::&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Ikon kamera&lt;/b&gt; - on / off pemutar video otomatis.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Ikon langsung&lt;/b&gt; - on / off pengetikan status.&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Tekan lama pada ikon bawah:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Ikon beranda&lt;/b&gt;  - buka pengaturan developer.&lt;br&gt;"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
-<string name="base64_extra_title">"PGJpZz5QZXJoYXRpYW4hPC9iaWc+"</string>
-
-<!-- Fuzzy -->
+<string name="base64_extra_title">"&lt;big&gt;Perhatian!&lt;/big&gt;"</string>
 <string name="base64_extra_ok">"Oke"</string>
 <string name="autoplay_on">"Pemutar video otomatis diaktifkan"</string>
 <string name="autoplay_off">"Pemutar video otomatis dinonaktifkan"</string>
