@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="settings_privacy">"Privasi"</string>
+<string name="settings_privacy">"Pengaturan privasi"</string>
 <string name="others">"Pengaturan Umum"</string>
 <string name="service_settings">"Pengaturan layanan"</string>
 
@@ -13,7 +13,7 @@
 <string name="hide_view_status_summary">"Jangan perlihatkan siapa pun bahwa Anda telah melihat Cerita"</string>
 <string name="direct_unread">"Sembunyikan Centang Baca Di DM"</string>
 <string name="direct_unread_summary">"Jangan memberi tahu pengirim bahwa Anda telah membaca pesan tersebut"</string>
-<string name="direct_typing">"Sembunyikan status pengetikan di DM"</string>
+<string name="direct_typing">"Sembunyikan sedang mengetik di DM"</string>
 <string name="download_folder">"Folder unduhan"</string>
 <string name="set_download_folder">"Tetapkan jalur ke folder unduhan. Anda dapat membuat garis miring di antara bagian-bagian jalan, tetapi tidak di awal atau di akhir!"</string>
 <string name="select_language">"Pilih bahasa untuk diterjemahkan"</string>
@@ -23,7 +23,7 @@
 <string name="double_down">"Ketuk 3x untuk unduh media"</string>
 <string name="long_tap_zoom">"Tekan foto lama untuk perbesar"</string>
 <string name="play_video_with_audio">"Mulai video langsung dengan suara"</string>
-<string name="disable_stories">"Nonaktifkan cerita dalam umpan"</string>
+<string name="disable_stories">"Nonaktifkan cerita"</string>
 <string name="suggested_users">"Rekomendasi teman"</string>
 <string name="suggested_users_sum">"Nonaktifkan penawaran untuk berlangganan ke teman yang direkomendasikan di dinding"</string>
 <string name="gb_enable_logging">"Aktifkan laporan kerusakan"</string>
@@ -41,7 +41,6 @@
 <string name="carousel_start">"Posting korsel ke media pertama"</string>
 <string name="disable_ads">"Nonaktifkan iklan"</string>
 <string name="stories_sound">"Putar cerita selalu dengan suara"</string>
-<string name="disable_analytics">"Nonaktifkan analistik"</string>
 <string name="translate_engine">"Pilih mesin penterjemah"</string>
 <string name="mark_seen">"Tandai sudah dibaca"</string>
 <string name="impossible_down">"Tidak mungkin diunduh"</string>
@@ -49,7 +48,7 @@
 <string name="gb_disable_slide_Summary">"Nonaktifkan Menggesekkan Kiri ke Kanan atau Kanan Ke Kiri Untuk Mengubah Tampilan di Instagram"</string>
 
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
-<string name="version_about">"Mod versi: %1$d"</string>
+<string name="version_about">"Versi Mod: %1$d"</string>
 <string name="author_about">"Penulis: krogon500"</string>
 <string name="down_start">"Pengunduhan dimulai ..."</string>
 <string name="direct_unread_off">"Centang baca dinonaktifkan"</string>
@@ -66,32 +65,11 @@
 <string name="translate_to_ru">"Terjemahkan ke Rusia"</string>
 <string name="translate_to_en">"Terjemahkan ke Inggris"</string>
 <string name="message_too_long">"Eror: pesan terlalu panjang"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_thanks">"Adaptasi ke versi terbaru Instagram oleh: &lt;b&gt;Krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-GBInsta asli dibuat oleh: &lt;b&gt;Atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
-Versi diperpanjang oleh: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
-Terima kasih khusus untuk:&lt;br&gt;&lt;br&gt;
-&lt;b&gt;OGMods&lt;/b&gt; - untuk OGInsta&lt;br&gt;
-&lt;b&gt;Dimas Alam @mazdims&lt;/b&gt; - untuk terjemahan pengaturan khusus ke dalam bahasa Indonesia&lt;br&gt;
-&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - terjemahan pengaturan khusus ke dalam bahasa Rusia&lt;br&gt;
-&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - untuk terjemahan pengaturan khusus ke dalam bahasa Turki&lt;br&gt;
-&lt;b&gt;Dan untuk semua pengguna&lt;/b&gt; - yang menguji, mengirim laporan bug&lt;br&gt;&lt;br&gt;
-base64_thanks"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_notif">"Opsi khusus oleh &lt;b&gt;namok&lt;/b&gt; dan &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Long press on top icons::&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Camera icon&lt;/b&gt; - on / off videos autoplay.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Direct icon&lt;/b&gt; - on / off typing status.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Long press on bottom icons:&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Home Icon&lt;/b&gt;  - opens developer settings.&lt;br&gt;"</string>
-
-<!-- Do not remove tags like <b></b> -->
-<string name="base64_extra_title"></string>
-<string name="base64_extra_ok"></string>
-<string name="autoplay_on"></string>
-<string name="autoplay_off"></string>
-<string name="navbar_settings"></string>
-<string name="FollowedYou"></string>
+<string name="autoplay_on">"Pemutar video otomatis diaktifkan"</string>
+<string name="autoplay_off">"Pemutar video otomatis dinonaktifkan"</string>
+<string name="navbar_settings">"Pengaturan Bar Atas &amp; Navigasi"</string>
+<string name="FollowedYou">"(Mengikuti Anda)"</string>
+<string name="disable_shopping_items">"Nonaktifkan item belanja di Pencarian"</string>
+<string name="action_bar_title">"Bar Atas"</string>
+<string name="navbar_title">"Bar Navigasi"</string>
 </resources>
