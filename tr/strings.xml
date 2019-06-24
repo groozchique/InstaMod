@@ -7,7 +7,7 @@
 <!-- Option in mod settings -->
 <string name="Thanks">"Teşekkürler"</string>
 <string name="donate_mod">"Bağış"</string>
-<string name="about_mod">"Mod Hakkında"</string>
+<string name="about_mod">"Hakkında"</string>
 <string name="tg_channel">"Telegram Kanalı"</string>
 <string name="hide_view_status">"Hikayeleri Gördüğümü Gizle"</string>
 <string name="hide_view_status_summary">"Hikayeyi görüntülediğinizden karşı tarafın haberi olmaz."</string>
@@ -15,52 +15,52 @@
 <string name="direct_unread_summary">"Karşı taraf mesajı okuduğunuzu göremez."</string>
 <string name="direct_typing">"Sohbette Yazıyor... Bilgisini Gizle"</string>
 <string name="download_folder">"İndirme Klasörü"</string>
-<string name="set_download_folder">"İndirme klasörünüzü belirleyin.(Seçili klasör tavsiye!)"</string>
+<string name="set_download_folder">"Kayıt yeri seçin."</string>
 <string name="select_language">"Çeviri İçin Dil Seçin"</string>
 <string name="two_line_direct">"Sohbette İki Satırlı Eklenti"</string>
 <string name="open_inapp">"Uygulama İçi Bağlantıları Aç"</string>
 <string name="double_like">"Çift Tıklamayla Beğen"</string>
-<string name="double_down">"Medyayı indirmek için çift dokunun"</string>
-<string name="long_tap_zoom">"Fotoğrafı yakınlaştırmak için uzun basın."</string>
+<string name="double_down">"Medyayı İndirmek İçin Çift Dokun"</string>
+<string name="long_tap_zoom">"Fotoğrafı Yakınlaştırmak İçin Uzun Bas"</string>
 <string name="play_video_with_audio">"Videoları Sesli Başlat"</string>
 <string name="disable_stories">"Hikayeler Menüsünü Gizle"</string>
 <string name="suggested_users">"Tavsiye Edilen Arkadaşlar"</string>
 <string name="suggested_users_sum">"Tavsiye edilen arkadaşlar menüsünü kapatır."</string>
 <string name="gb_enable_logging">"Hata Raporu Gönder"</string>
 <string name="disable_updates">"Güncellemeleri Kapat"</string>
-<string name="gb_more_options">"Ekstra Seçenek"</string>
+<string name="gb_more_options">"Ekstra Seçenekler"</string>
 <string name="gb_download_only_image_list_media">"İndir"</string>
 
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
-<string name="gb_download_list_media">"Tüm %1$s Resimlerini İndir"</string>
+<string name="gb_download_list_media">"Bu %1$s Resmi İndir"</string>
 <string name="download">"İndir"</string>
 <string name="previewurl">"Görüntüle"</string>
 <string name="shareurl">"Resim/Video URL Paylaş"</string>
 <string name="copyurl">"Resim/Video URL Kopyala"</string>
-<string name="settings_feed">"Hikaye ve Besleme Ayarları"</string>
-<string name="carousel_start">"İlk Medyayı Yayınla"</string>
-<string name="disable_ads">"Reklamları Devredışı Bırak"</string>
+<string name="settings_feed">"Ana Ekran ve Hikaye Ayarları"</string>
+<string name="carousel_start">"Carousel Görünümüyle Başlat"</string>
+<string name="disable_ads">"Reklamları Kapat"</string>
 <string name="stories_sound">"Hikayeleri Sesli Oynat"</string>
-<string name="disable_analytics">"Analizleri devre dışı bırak"</string>
-<string name="translate_engine">"Çeviri motorunu seç"</string>
-<string name="mark_seen">"Görüldü olarak işaretle"</string>
-<string name="impossible_down">"İndirmek mümkün değil !"</string>
+<string name="disable_analytics">"Analizleri Kapat"</string>
+<string name="translate_engine">"Çeviri Motoru Seçin"</string>
+<string name="mark_seen">"Okundu olarak işaretle"</string>
+<string name="impossible_down">"İndirmek mümkün değil!"</string>
 <string name="gb_disable_slide">"Slayt Gezintisi"</string>
 <string name="gb_disable_slide_Summary">"Gezinme ekranın sağa sola kayma işlevini devre dışı bırakın."</string>
 
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"Mod Versiyonu: %1$d"</string>
 <string name="author_about">"Yapımcı: krogon500"</string>
-<string name="down_start">"İndirme başlatıldı..."</string>
-<string name="direct_unread_off">"Görüldü tiki etkin !"</string>
-<string name="direct_unread_on">"Görüldü tiki devre dışı !"</string>
+<string name="down_start">"İndiriliyor..."</string>
+<string name="direct_unread_off">"Görüldü tiki etkin!"</string>
+<string name="direct_unread_on">"Görüldü tiki devre dışı!"</string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"Kaydedildi "</string>
 <string name="gb_translate">"Çevir"</string>
 <string name="done_translate">"Çevrildi"</string>
 <string name="translate_toast">"Çevriliyor... Biraz bekleyin"</string>
-<string name="copypassdone">"başarıyla kopyalandı."</string>
+<string name="copypassdone">"Başarıyla Kopyalandı"</string>
 <string name="translate_to_tu">"Türkçeye Çevir"</string>
 <string name="translate_to_ua">"Ukraynacaya Çevir"</string>
 <string name="translate_to_ru">"Rusçaya Çevir"</string>
@@ -77,10 +77,10 @@
 <string name="base64_extra_title">"PGJpZz5CaWxnaWxlbmRpcm1lITwvYmln"</string>
 <string name="base64_extra_ok">"TAMAM"</string>
 <string name="autoplay_on">"Videoları otomatik oynatma etkin!"</string>
-<string name="autoplay_off">"Videoları otomatik oynatma devredışı!"</string>
-<string name="navbar_settings"></string>
+<string name="autoplay_off">"Videoları otomatik oynatma devre dışı!"</string>
+<string name="navbar_settings">Gezinti Çubuğu Ayarları</string>
 <string name="FollowedYou">"(Seni Takip Ediyor)"</string>
-<string name="disable_shopping_items"></string>
-<string name="action_bar_title"></string>
-<string name="navbar_title"></string>
+<string name="disable_shopping_items">Alışveriş Öğelerini Kapat</string>
+<string name="action_bar_title">İşlem Başlığı Yazısı</string>
+<string name="navbar_title">Gezinti Çubuğu Yazısı</string>
 </resources>
