@@ -68,9 +68,21 @@
 <string name="translate_to_ru">"Traduzir para Russo"</string>
 <string name="translate_to_en">"Traduzir para Inglês"</string>
 <string name="message_too_long">"Erro: a mensagem é muito longa"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_thanks">"QWRhcHRhw6fDo28gcGFyYSBhIMO6bHRpbWEgdmVyc8OjbyBkbyBJbnN0YWdyYW0gcG9yOiA8Yj5rcm9nb241MDA8L2I+PGJyPjxicj4KR0JJbnN0YSBvcmlnaW5hbCBmZWl0byBwb3I6IDxiPmF0bmZhcyBob2FrPC9iPiAoT21hcik8YnI+PGJyPgpWZXJzw6NvIGVzdGVuZGlkYSBwb3I6IDxicj48Yj5uYW1vazwvYj4gKE11aGFtbWFkKTxicj48YnI+CkFncmFkZWNpbWVudG9zIGVzcGVjaWFpcyBhOjxicj48YnI+CjxiPk9HTW9kczwvYj4gLSBwZWxvIE9HSW5zdGE8YnI+CjxiPtCh0LLRj9GC0L7QuV/QntGC0LXRhl/QnNCw0LrRijwvYj4gLSBwZWxhcyB0cmFkdcOnw7VlcyBkYXMgb3DDp8O1ZXMgcGVyc29uYWxpemFkYXMgZW0gUnVzc288YnI+CjxiPk1hbWljdWsgJiBKb2tlcnIzMyAmIEludGFuU3VSPC9iPiAtIHBlbGFzIHRyYWR1w6fDtWVzIGRhcyBvcMOnw7VlcyBwZXJzb25hbGl6YWRhcyBlbSBUdXJjbzxicj4KPGI+RSBhIHRvZG9zIG9zIHV0aWxpemFkb3JlczwvYj4gLSBxdWUgdGVzdGFyYW0gZSByZXBvcnRhcmFtIGVycm9zPGJyPjxicj4="</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_notif">"RGVmaW5pw6fDtWVzIHBlcnNvbmFsaXphZGFzIHBvciA8Yj5uYW1vazwvYj4gZSA8Yj5rcm9nb241MDA8L2I+PGJyPjxicj4KPGI+UHJlc3Npb25hciBub3Mgw61jb25lcyBzdXBlcmlvcmVzOjwvYj48YnI+CjxiPkPDom1hcmE8L2I+IC0gbGlnYS9kZXNsaWdhIHJlcHJvZHXDp8OjbyBhdXRvbcOhdGljYTxicj48YnI+CjxiPk1lbnNhZ2VuczwvYj4gLSBsaWdhL2Rlc2xpZ2EgaW5kaWNhw6fDo28gZGUgZXN0YXIgYSBlc2NyZXZlciA8YnI+PGJyPgo8Yj5QcmVzc2lvbmFyIG5vcyDDrWNvbmVzIGluZmVyaW9yZXM6PC9iPjxicj4KPGI+SW7DrWNpbzwvYj4gIC0gYWJyZSBvcMOnw7VlcyBkZSBwcm9ncmFtYWRvcjxicj4="</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_title">"PGJpZz5BdGVuw6fDo28hPC9iaWc+"</string>
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Reprodução automática activa!"</string>
 <string name="autoplay_off">"Reprodução automática desativa!"</string>
 <string name="navbar_settings">"Definições da barra de navegação"</string>
 <string name="FollowedYou">"(Seguidor)"</string>
+<string name="disable_shopping_items">"Desativar produtos à venda no menu procurar"</string>
+<string name="action_bar_title">"Barra superior"</string>
+<string name="navbar_title">"Barra de navegação"</string>
 </resources>
