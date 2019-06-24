@@ -28,7 +28,7 @@
 <string name="gb_enable_logging">"Envoyé les rapports de crash"</string>
 <string name="disable_updates">"Vérifier les mises à jour"</string>
 <string name="gb_more_options">"Options supplémentaires"</string>
-<string name="gb_download_only_image_list_media">"Télécharger la photo sélectionner"</string>
+<string name="gb_download_only_image_list_media">"Télécharger la photo sélectionnée"</string>
 
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
 <string name="gb_download_list_media">"Télécharger les %1$s photos"</string>
@@ -38,7 +38,9 @@
 <string name="settings_feed">"Paramètres du fil d'actualité et des Stories"</string>
 <string name="disable_ads">"Désactiver les pubs"</string>
 <string name="stories_sound">"Jouer les Stories avec son"</string>
-<string name="disable_analytics">"Désactiver les Analytics"</string>
+
+<!-- Fuzzy -->
+<string name="disable_analytics">"Désactiver les Analytiques"</string>
 <string name="translate_engine">"Sélectionner le moteur de traduction"</string>
 <string name="mark_seen">"Marquer comme lu"</string>
 <string name="impossible_down">"Ce n'est pas possible de télécharger"</string>
@@ -48,43 +50,36 @@
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"Version du Mod : %1$d"</string>
 <string name="author_about">"Auteur : krogon500"</string>
-<string name="down_start">"Téléchargement commencé ..."</string>
+<string name="down_start">"Téléchargement commencé..."</string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
-<string name="downloaded_media_toast">"Enregistré sous"</string>
+<string name="downloaded_media_toast">"Enregistrer sous"</string>
 <string name="gb_translate">"Traduction"</string>
 <string name="done_translate">"Traduis"</string>
-<string name="translate_toast">"Traduction ... Attends un p'tit moment"</string>
+<string name="translate_toast">"Traduction... Attends un p'tit moment"</string>
 <string name="copypassdone">"Copie réussi"</string>
 <string name="translate_to_tu">"Traduire en Turque"</string>
 <string name="translate_to_ua">"Traduire en Ukrainien"</string>
 <string name="translate_to_ru">"Traduire en Russe"</string>
-<string name="translate_to_en">"Traduire en Englais"</string>
-<string name="message_too_long">"Erreur : message trop long"</string>
+<string name="translate_to_en">"Traduire en Anglais"</string>
+<string name="message_too_long">"Erreur: message trop long"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<string name="base64_thanks">"Adaptation à la dernière version d'Instagram : &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Original GBInsta fais par : &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
-Version étendu par : &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
-Un remerciement spécial pour :&lt;br&gt;&lt;br&gt;
-&lt;b&gt;OGMods&lt;/b&gt; - pour le OGInsta&lt;br&gt;
-&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - pour la traduction des paramètres supplémentaires en Russe&lt;br&gt;
-&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - pour la traduction des paramètres supplémentaires en Turkish&lt;br&gt;
-&lt;b&gt;Et à tous les utilisateurs&lt;/b&gt; - qui ont testé, et envoyé des rapports de bugs&lt;br&gt;&lt;br&gt;"</string>
+<!-- Fuzzy -->
+<string name="base64_thanks">"QWRhcHRhdGlvbiDDoCBsYSBkZXJuacOocmUgdmVyc2lvbiBkJ0luc3RhZ3JhbTogPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+Ck9yaWdpbmFsIEdCSW5zdGEgZmFpcyBwYXI6IDxiPmF0bmZhcyBob2FrPC9iPiAoT21hcik8YnI+PGJyPgpWZXJzaW9uIMOpdGVuZHUgcGFyOiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgpVbiByZW1lcmNpZW1lbnQgc3DDqWNpYWwgcG91cjo8YnI+PGJyPgo8Yj5PR01vZHM8L2I+IC0gcG91ciBsZSBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0gcG91ciBsYSB0cmFkdWN0aW9uIGRlcyBwYXJhbcOodHJlcyBzdXBwbMOpbWVudGFpcmVzIGVuIFJ1c3NlPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSBwb3VyIGxhIHRyYWR1Y3Rpb24gZGVzIHBhcmFtw6h0cmVzIHN1cHBsw6ltZW50YWlyZXMgZW4gVHVya2lzaDxicj4KPGI+RXQgw6AgdG91cyBsZXMgdXRpbGlzYXRldXJzPC9iPiAtIHF1aSBvbnQgdGVzdMOpLCBldCBlbnZvecOpIGRlcyByYXBwb3J0cyBkZSBidWdzPGJyPjxicj4="</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<string name="base64_extra_notif">"Paramètres supplémentaires par &lt;b&gt;namok&lt;/b&gt; et &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Appui long sur l'icône:&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Icône de la caméra&lt;/b&gt; - marche / arrêt du visionnage automatique des vidéos.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Icône des messages Direct&lt;/b&gt; - marche / arrêt du statut d'écriture.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Appuie long à l'icône en haut:&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Icône d'Accueil&lt;/b&gt;  - Paramètres développeurs.&lt;br&gt;"</string>
+<!-- Fuzzy -->
+<string name="base64_extra_notif">"UGFyYW3DqHRyZXMgc3VwcGzDqW1lbnRhaXJlcyBwYXIgPGI+bmFtb2s8L2I+IGV0IDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgo8Yj5BcHB1aSBsb25nIHN1ciBsJ2ljw7RuZTo8L2I+PGJyPgo8Yj5JY8O0bmUgZGUgbGEgY2Ftw6lyYTwvYj4gLSBtYXJjaGUvYXJyw6p0IGR1IHZpc2lvbm5hZ2UgYXV0b21hdGlxdWUgZGVzIHZpZMOpb3M8YnI+PGJyPgo8Yj5JY8O0bmUgZGVzIG1lc3NhZ2VzIERpcmVjdDwvYj4gLSBtYXJjaGUvYXJyw6p0IGR1IHN0YXR1dCBkJ8OpY3JpdHVyZTxicj48YnI+CjxiPkFwcHVpZSBsb25nIMOgIGwnaWPDtG5lIGVuIGhhdXQ6PC9iPjxicj4KPGI+SWPDtG5lIGQnQWNjdWVpbDwvYj4gIC0gUGFyYW3DqHRyZXMgZMOpdmVsb3BwZXVyczxicj4="</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<string name="base64_extra_title">"&lt;big&gt;Attention!&lt;/big&gt;"</string>
+<!-- Fuzzy -->
+<string name="base64_extra_title">"PGJpZz5BdHRlbnRpb24hPC9iaWc+"</string>
+
+<!-- Fuzzy -->
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Le visionnage automatique est activé !"</string>
-<string name="autoplay_off">"Le visionnage automatique est desactivé !"</string>
+<string name="autoplay_off">"Le visionnage automatique est désactivé !"</string>
 <string name="navbar_settings">"Paramètres de la barre d'action et de la barre de navigation"</string>
 <string name="FollowedYou">"(  ABONNÉ À TOI )"</string>
 <string name="disable_shopping_items">"Désactiver le Shopping dans la Recherche"</string>
