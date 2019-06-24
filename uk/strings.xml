@@ -1,1 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_privacy">"Налаштування приватності"</string>
+<string name="others">"Основні налаштування"</string>
+<string name="service_settings"></string>
 
+<!-- Option in mod settings -->
+<string name="Thanks">"Подяка"</string>
+<string name="donate_mod">"Пожертвування"</string>
+<string name="about_mod">"Про мод"</string>
+<string name="tg_channel">"Телеграм канал"</string>
+<string name="hide_view_status">"Приховати перегляд розповіді"</string>
+<string name="hide_view_status_summary">"Автор розповіді не побачить , що ви її переглянули"</string>
+<string name="direct_unread">"Не позначати повідомлення прочитаними"</string>
+<string name="direct_unread_summary">"Ваш співрозмовник не дізнається, що ви прочитали його повідомлення"</string>
+<string name="direct_typing">"Приховати статус \"пише...\""</string>
+<string name="download_folder">"Папка для завантаження"</string>
+<string name="set_download_folder"></string>
+<string name="select_language">"Вибрати мову перекладу"</string>
+<string name="two_line_direct">"Двохрядний дірект"</string>
+<string name="open_inapp">"Включити вбудований браузер"</string>
+<string name="double_like">"Подвійний натиск для лайка"</string>
+<string name="double_down">"Завантажувати медіа при потрійному натисканні"</string>
+<string name="long_tap_zoom">"Збільшити фото при довгому натисканні"</string>
+<string name="play_video_with_audio">"Запускати відео відразу зі звуком"</string>
+<string name="disable_stories">"Приховати історії на домашньому екрані"</string>
+<string name="suggested_users">"Рекомендовані друзі"</string>
+<string name="suggested_users_sum"></string>
+<string name="gb_enable_logging"></string>
+<string name="disable_updates"></string>
+<string name="gb_more_options"></string>
+<string name="gb_download_only_image_list_media"></string>
+
+<!-- DO NOT REMOVE "%1$s" SYMBOL -->
+<string name="gb_download_list_media"></string>
+<string name="download"></string>
+<string name="previewurl"></string>
+<string name="shareurl"></string>
+<string name="copyurl"></string>
+<string name="settings_feed"></string>
+<string name="carousel_start"></string>
+<string name="disable_ads"></string>
+<string name="stories_sound"></string>
+<string name="disable_analytics"></string>
+<string name="translate_engine"></string>
+<string name="mark_seen"></string>
+<string name="impossible_down"></string>
+<string name="gb_disable_slide"></string>
+<string name="gb_disable_slide_Summary"></string>
+
+<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
+<string name="version_about"></string>
+<string name="author_about"></string>
+<string name="down_start"></string>
+<string name="direct_unread_off"></string>
+<string name="direct_unread_on"></string>
+
+<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
+<string name="downloaded_media_toast"></string>
+<string name="gb_translate"></string>
+<string name="done_translate"></string>
+<string name="translate_toast"></string>
+<string name="copypassdone"></string>
+<string name="translate_to_tu"></string>
+<string name="translate_to_ua"></string>
+<string name="translate_to_ru"></string>
+<string name="translate_to_en"></string>
+<string name="message_too_long"></string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_thanks"></string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_notif"></string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_title"></string>
+<string name="base64_extra_ok"></string>
+<string name="autoplay_on"></string>
+<string name="autoplay_off"></string>
+<string name="navbar_settings"></string>
+<string name="FollowedYou"></string>
+<string name="disable_shopping_items"></string>
+<string name="action_bar_title"></string>
+<string name="navbar_title"></string>
+</resources>
