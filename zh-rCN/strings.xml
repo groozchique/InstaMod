@@ -51,15 +51,15 @@
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"Mod 版本: %1$d"</string>
 <string name="author_about">"作者：Krogon500"</string>
-<string name="down_start">"开始下载 ..."</string>
-<string name="direct_unread_off">"开启保持消息为未读"</string>
-<string name="direct_unread_on">"关闭保持消息为未读"</string>
+<string name="down_start">"开始下载..."</string>
+<string name="direct_unread_off"></string>
+<string name="direct_unread_on"></string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"已保存到"</string>
 <string name="gb_translate">"翻译"</string>
 <string name="done_translate">"已翻译"</string>
-<string name="translate_toast">"翻译中 ... 请稍后"</string>
+<string name="translate_toast">"翻译中... 请稍后"</string>
 <string name="copypassdone">"复制成功"</string>
 <string name="translate_to_tu">"翻译为土耳其语"</string>
 <string name="translate_to_ua">"翻译为乌克兰语"</string>
@@ -83,4 +83,5 @@
 <string name="disable_shopping_items">"关闭搜索中的商品"</string>
 <string name="action_bar_title">"顶部导航栏"</string>
 <string name="navbar_title">"底部导航栏"</string>
+<string name="carousel_start_desc"></string>
 </resources>
