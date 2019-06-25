@@ -1,1 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_privacy">"Ajustes de privacidad"</string>
+<string name="others">"Ajustes Generales"</string>
+<string name="service_settings">"Ajustes de servicios"</string>
 
+<!-- Option in mod settings -->
+<string name="Thanks">"Gracias"</string>
+<string name="donate_mod">"Donar"</string>
+<string name="about_mod">"Acerca del mod"</string>
+<string name="tg_channel">"Canal de Telegram"</string>
+<string name="hide_view_status">"No marcar historias como vistas"</string>
+<string name="hide_view_status_summary">"No decirle al autor que he visto su historia"</string>
+<string name="direct_unread">"No marcar mensajes como leídos"</string>
+<string name="direct_unread_summary">"Mensajes recibidos no serán marcados como leidos"</string>
+<string name="direct_typing">"Ocultar estado escribiendo en MD"</string>
+<string name="download_folder">"Carpeta de descarga"</string>
+<string name="set_download_folder">"Seleccionar ruta para carpeta de descargas. Puedes dividir las carpetas con una barra, no colocarla ni al principio ni al final"</string>
+<string name="select_language">"Seleccionar idioma para traducir"</string>
+<string name="two_line_direct">"Cuadro de mensaje de dos líneas en MD"</string>
+<string name="open_inapp">"Habilitar navegador dentro de la aplicación"</string>
+<string name="double_like">"Habilitar doble toque para dar me gusta"</string>
+<string name="double_down">"Descargar multimedia con triple toque"</string>
+<string name="long_tap_zoom">"Acercar imágenes con un toque prolongado"</string>
+<string name="play_video_with_audio">"Iniciar videos directamente con sonido"</string>
+<string name="disable_stories">"Desactivar historias"</string>
+<string name="suggested_users">"Recomendados para ti"</string>
+<string name="suggested_users_sum">"Desactivar amigos recomendados en las noticias"</string>
+<string name="gb_enable_logging">"Enviar reportes de fallos"</string>
+<string name="disable_updates">"Buscar actualizaciones"</string>
+<string name="gb_more_options">"Opciones adicionales"</string>
+<string name="gb_download_only_image_list_media">"Descargar imagen seleccionada"</string>
+
+<!-- DO NOT REMOVE "%1$s" SYMBOL -->
+<string name="gb_download_list_media">"Descargar las %1$s imágenes"</string>
+<string name="download">"Descargar"</string>
+<string name="previewurl">"Previsualizar"</string>
+<string name="shareurl">"Compartir enlace de vídeo o imagen"</string>
+<string name="copyurl">"Copiar enlace de imagen o video"</string>
+<string name="settings_feed">"Ajustes de historias y noticias"</string>
+<string name="carousel_start">"Publicaciones del carrusel a los primeros medios"</string>
+<string name="disable_ads">"Desactivar publicidad"</string>
+<string name="stories_sound">"Iniciar historias con sonido"</string>
+<string name="disable_analytics">"Desactivar analítica"</string>
+<string name="translate_engine">"Seleccionar motor de traducción"</string>
+<string name="mark_seen">"Marcar como leído"</string>
+<string name="impossible_down">"No es posible descargarlo"</string>
+<string name="gb_disable_slide">"Desactivar deslizar para navegar"</string>
+<string name="gb_disable_slide_Summary">"Desactivar deslizamiento de izquierda a derecha para abrir la cámara por desde la izquierda para abrir MD"</string>
+
+<!-- DO NOT REMOVE "%1$d" SYMBOL! -->
+<string name="version_about">"Versión del Mod: %1$d"</string>
+<string name="author_about">"Autor: krogon500"</string>
+<string name="down_start">"Descarga iniciada..."</string>
+<string name="direct_unread_off">"Los mensajes no serán marcados como leídos en el Directo"</string>
+<string name="direct_unread_on">"Los mensajes siempre se marcarán como leídos en el Directo"</string>
+
+<!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
+<string name="downloaded_media_toast">"Guardado en"</string>
+<string name="gb_translate">"Traducir"</string>
+<string name="done_translate">"Traducido"</string>
+<string name="translate_toast">"Traduciendo... Espere un momento"</string>
+<string name="copypassdone">"Copiado satisfactoriamente"</string>
+<string name="translate_to_tu">"Traducir al Turco"</string>
+<string name="translate_to_ua">"Traducir al Ucraniano"</string>
+<string name="translate_to_ru">"Traducir al Ruso"</string>
+<string name="translate_to_en">"Traducir al Inglés"</string>
+<string name="message_too_long">"Error: el mensaje es demasiado largo"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_thanks">"QWRhcHRhY2nDs24gYSBsYSDDumx0aW1hIHZlcnNpw7NuIGRlIEluc3RhZ3JhbSBwb3I6IDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgpPcmlnaW5hbCBHQkluc3RhIGhlY2hvIHBvciA8Yj5hdG5mYXMgaG9hazwvYj4gKE9tYXIpPGJyPjxicj4KVmVyc2nDs24gZXh0ZW5kaWRhIHBvcjogPGJyPjxiPm5hbW9rPC9iPiAoTXVoYW1tYWQpPGJyPjxicj4KQWdyYWRlY2ltaWVudG8gZXNwZWNpYWwgYTo8YnI+PGJyPgo8Yj5PR01vZHM8L2I+IC0gZm9yIHRoZSBPR0luc3RhPGJyPgo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0gcG9yIGxhIHRyYWR1Y2Npw7NuIGRlIGFqdXN0ZXMgcGVyc29uYWxpemFkb3MgYWwgcnVzbzxicj4KPGI+TWFtaWN1ayAmIEpva2VycjMzICYgSW50YW5TdVI8L2I+IC0gcG9yIGxhIHRyYWR1Y2Npw7NuIGRlIGFqdXN0ZXMgcGVyc29uYWxpemFkb3MgYWwgdHVya288YnI+CjxiPlkgYSB0b2RvcyBsb3MgdXN1YXJpb3M8L2I+IC0gUXVlIHByb2Jhcm9uIHkgZW52aWFyb24gaW5mb3JtZXMgZGUgZXJyb3Jlczxicj48YnI+"</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_notif">"T3BjaW9uZXMgcGVyc29uYWxpemFkYXMgcG9yIDxiPm5hbW9rPC9iPiB5IDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgo8Yj5Ub3F1ZSBsYXJnbyBlbiBpY29ub3Mgc3VwZXJpb3Jlczo8L2I+PGJyPgo8Yj5JY29ubyBkZSBjw6FtYXJhPC9iPiAtIEVuY2VuZGVyL0FwYWdhciByZXByb2R1Y2Npw7NuIGF1dG9tw6F0aWNhIGRlIHZpZGVvczxicj48YnI+CjxiPkljb25vIGRlIERpcmVjdG88L2I+IC0gRW5jZW5kZXIvQXBhZ2FyIGVzdGFkbyBlc2NyaWJpZW5kbzxicj48YnI+CjxiPlRvcXVlIGxhcmdvIGVuIGljb25vcyBpbmZlcmlvcmVzOjwvYj48YnI+CjxiPkljb25vIGRlIEluaWNpbzwvYj4gIC0gYWJyaXIgb3BjaW9uZXMgZGUgZGVzYXJyb2xsYWRvcjxicj4="</string>
+
+<!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
+<string name="base64_extra_title">"PGJpZz7CoUF0ZW5jacOzbiE8L2JpZz4="</string>
+<string name="base64_extra_ok">"Ok"</string>
+<string name="autoplay_on">"Reproducción automática de videos activada!"</string>
+<string name="autoplay_off">"Reproducción automática de videos desactivada!"</string>
+<string name="navbar_settings">"Configuración de la barra de acción y la barra de navegación"</string>
+<string name="FollowedYou">"(TE SIGUE)"</string>
+<string name="disable_shopping_items">"Desactivar la compra de artículos en la búsqueda"</string>
+<string name="action_bar_title">"Barra de Acción"</string>
+<string name="navbar_title">"Barra de Navegación"</string>
+<string name="carousel_start_desc"></string>
+</resources>
