@@ -51,15 +51,15 @@
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"Versi Mod: %1$d"</string>
 <string name="author_about">"Penulis: krogon500"</string>
-<string name="down_start">"Pengunduhan dimulai ..."</string>
-<string name="direct_unread_off">"Centang baca dinonaktifkan"</string>
-<string name="direct_unread_on">"Centang baca diaktifkan"</string>
+<string name="down_start">"Pengunduhan dimulai..."</string>
+<string name="direct_unread_off"></string>
+<string name="direct_unread_on"></string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"Tersimpan di"</string>
 <string name="gb_translate">"Terjemahkan"</string>
 <string name="done_translate">"Diterjemahkan"</string>
-<string name="translate_toast">"Menterjemahkan ... Tolong tunggu sebentar"</string>
+<string name="translate_toast">"Menterjemahkan... Tolong tunggu sebentar"</string>
 <string name="copypassdone">"Berhasil disalin"</string>
 <string name="translate_to_tu">"Terjemahkan ke Turki"</string>
 <string name="translate_to_ua">"Terjemahkan ke Ukraina"</string>
@@ -68,27 +68,13 @@
 <string name="message_too_long">"Eror: pesan terlalu panjang"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<string name="base64_thanks">"Adaptasi ke versi terbaru Instagram oleh: &lt;b&gt;Krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-GBInsta asli dibuat oleh: &lt;b&gt;Atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
-Versi diperpanjang oleh: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
-Terima kasih khusus untuk:&lt;br&gt;&lt;br&gt;
-&lt;b&gt;OGMods&lt;/b&gt; - untuk OGInsta&lt;br&gt;
-&lt;b&gt;Dimas Alam @mazdims&lt;/b&gt; - untuk terjemahan pengaturan khusus ke dalam bahasa Indonesia&lt;br&gt;
-&lt;b&gt;Святой_Отец_Макъ&lt;/b&gt; - terjemahan pengaturan khusus ke dalam bahasa Rusia&lt;br&gt;
-&lt;b&gt;Mamicuk &amp; Jokerr33 &amp; IntanSuR&lt;/b&gt; - untuk terjemahan pengaturan khusus ke dalam bahasa Turki&lt;br&gt;
-&lt;b&gt;Dan untuk semua pengguna&lt;/b&gt; - yang menguji, mengirim laporan bug&lt;br&gt;&lt;br&gt;
-base64_thanks"</string>
+<string name="base64_thanks">"QWRhcHRhc2kga2UgdmVyc2kgdGVyYmFydSBJbnN0YWdyYW0gb2xlaDogPGI+S3JvZ29uNTAwPC9iPjxicj48YnI+CkdCSW5zdGEgYXNsaSBkaWJ1YXQgb2xlaDogPGI+QXRuZmFzIGhvYWs8L2I+IChPbWFyKTxicj48YnI+ClZlcnNpIGRpcGVycGFuamFuZyBvbGVoOiA8YnI+PGI+bmFtb2s8L2I+IChNdWhhbW1hZCk8YnI+PGJyPgpUZXJpbWEga2FzaWgga2h1c3VzIHVudHVrOjxicj48YnI+CjxiPk9HTW9kczwvYj4gLSB1bnR1ayBPR0luc3RhPGJyPgo8Yj5EaW1hcyBBbGFtIEBtYXpkaW1zPC9iPiAtIHVudHVrIHRlcmplbWFoYW4gcGVuZ2F0dXJhbiBraHVzdXMga2UgZGFsYW0gYmFoYXNhIEluZG9uZXNpYTxicj4KPGI+0KHQstGP0YLQvtC5X9Ce0YLQtdGGX9Cc0LDQutGKPC9iPiAtIHRlcmplbWFoYW4gcGVuZ2F0dXJhbiBraHVzdXMga2UgZGFsYW0gYmFoYXNhIFJ1c2lhPGJyPgo8Yj5NYW1pY3VrICYgSm9rZXJyMzMgJiBJbnRhblN1UjwvYj4gLSB1bnR1ayB0ZXJqZW1haGFuIHBlbmdhdHVyYW4ga2h1c3VzIGtlIGRhbGFtIGJhaGFzYSBUdXJraTxicj4KPGI+RGFuIHVudHVrIHNlbXVhIHBlbmdndW5hPC9iPiAtIHlhbmcgbWVuZ3VqaSwgbWVuZ2lyaW0gbGFwb3JhbiBidWc8YnI+PGJyPg=="</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<string name="base64_extra_notif">"Opsi khusus oleh &lt;b&gt;namok&lt;/b&gt; dan &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Tekan lama pada ikon atas::&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Ikon kamera&lt;/b&gt; - on / off pemutar video otomatis.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Ikon langsung&lt;/b&gt; - on / off pengetikan status.&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Tekan lama pada ikon bawah:&lt;/b&gt;&lt;br&gt;
-&lt;b&gt;Ikon beranda&lt;/b&gt;  - buka pengaturan developer.&lt;br&gt;"</string>
+<string name="base64_extra_notif">"T3BzaSBraHVzdXMgb2xlaCA8Yj5uYW1vazwvYj4gZGFuIDxiPmtyb2dvbjUwMDwvYj48YnI+PGJyPgo8Yj5UZWthbiBsYW1hIHBhZGEgaWtvbiBhdGFzOjwvYj48YnI+CjxiPklrb24ga2FtZXJhPC9iPiAtIG9uL29mZiBwZW11dGFyIHZpZGVvIG90b21hdGlzPGJyPjxicj4KPGI+SWtvbiBsYW5nc3VuZzwvYj4gLSBvbi9vZmYgcGVuZ2V0aWthbiBzdGF0dXM8YnI+PGJyPgo8Yj5UZWthbiBsYW1hIHBhZGEgaWtvbiBiYXdhaDo8L2I+PGJyPgo8Yj5Ja29uIGJlcmFuZGE8L2I+ICAtIGJ1a2EgcGVuZ2F0dXJhbiBkZXZlbG9wZXI8YnI+"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<string name="base64_extra_title">"&lt;big&gt;Perhatian!&lt;/big&gt;"</string>
+<string name="base64_extra_title">"PGJpZz5QZXJoYXRpYW4hPC9iaWc+"</string>
 <string name="base64_extra_ok">"Oke"</string>
 <string name="autoplay_on">"Pemutar video otomatis diaktifkan"</string>
 <string name="autoplay_off">"Pemutar video otomatis dinonaktifkan"</string>
@@ -97,4 +83,5 @@ base64_thanks"</string>
 <string name="disable_shopping_items">"Nonaktifkan item belanja di Pencarian"</string>
 <string name="action_bar_title">"Bar Atas"</string>
 <string name="navbar_title">"Bar Navigasi"</string>
+<string name="carousel_start_desc"></string>
 </resources>
