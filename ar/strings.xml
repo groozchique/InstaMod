@@ -51,7 +51,7 @@
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"نسخة المود : %1$d"</string>
 <string name="author_about">"المؤلف : krogon500"</string>
-<string name="down_start">"بدأ التنزيل ..."</string>
+<string name="down_start">"بدأ التنزيل..."</string>
 <string name="direct_unread_off"></string>
 <string name="direct_unread_on"></string>
 
@@ -59,7 +59,7 @@
 <string name="downloaded_media_toast">"تم الحفظ في"</string>
 <string name="gb_translate">"ترجم"</string>
 <string name="done_translate">"مترجَم"</string>
-<string name="translate_toast">"جاري الترجمة ... انتظر لحظة"</string>
+<string name="translate_toast">"جاري الترجمة... انتظر لحظة"</string>
 <string name="copypassdone">"تم النسخ بنجاح"</string>
 <string name="translate_to_tu">"ترجمة إلى التركية"</string>
 <string name="translate_to_ua">"ترجمة إلى الأوكرانية"</string>
@@ -76,11 +76,12 @@
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
 <string name="base64_extra_title">"PGJpZz7Yp9mE2KXZhtiq2KjYp9mHICE8L2JpZz4="</string>
 <string name="base64_extra_ok">"موافقة"</string>
-<string name="autoplay_on">"التشغيل التلقائي للفيديو مُفعل "</string>
+<string name="autoplay_on">"التشغيل التلقائي للفيديو مُفعل"</string>
 <string name="autoplay_off">"التشغيل التلقائي للفيديو موقف"</string>
 <string name="navbar_settings"></string>
 <string name="FollowedYou">"يتابعك"</string>
 <string name="disable_shopping_items">"ايقاف عناصر التسوق في البحث"</string>
 <string name="action_bar_title"></string>
 <string name="navbar_title"></string>
+<string name="carousel_start_desc"></string>
 </resources>
