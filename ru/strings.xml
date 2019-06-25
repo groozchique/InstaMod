@@ -83,4 +83,5 @@
 <string name="disable_shopping_items">"Выключить плитки магазина в поиске"</string>
 <string name="action_bar_title">"Верхний бар"</string>
 <string name="navbar_title">"Нижний бар"</string>
+<string name="carousel_start_desc">"Всегда выбирать первое медиа из постов с несколькими медиа"</string>
 </resources>
