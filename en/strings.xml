@@ -38,7 +38,7 @@
 <string name="shareurl">"Share link to Image/Video"</string>
 <string name="copyurl">"Copy link to Image/Video"</string>
 <string name="settings_feed">"Feed and stories settings"</string>
-<string name="carousel_start">"Carousel posts to first media"</string>
+<string name="carousel_start">"Carousel to the first post"</string>
 <string name="disable_ads">"Disable ads"</string>
 <string name="stories_sound">"Play stories always with sound"</string>
 <string name="disable_analytics">"Disable analytics"</string>
@@ -52,8 +52,8 @@
 <string name="version_about">"Mod version: %1$d"</string>
 <string name="author_about">"Author: krogon500"</string>
 <string name="down_start">"Download started..."</string>
-<string name="direct_unread_off">"Read tick is disabled"</string>
-<string name="direct_unread_on">"Read tick is enabled"</string>
+<string name="direct_unread_off">"Messages will not be marked as Read in Direct"</string>
+<string name="direct_unread_on">"Messages will always be marked as Read in Direct"</string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"Saved in"</string>
@@ -68,7 +68,6 @@
 <string name="message_too_long">"Error: message is too long"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_thanks">"Adaptation to latest version of Instagram by: &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Original GBInsta made by: &lt;b&gt;atnfas hoak&lt;/b&gt; (Omar)&lt;br&gt;&lt;br&gt;
 Extended version by: &lt;br&gt;&lt;b&gt;namok&lt;/b&gt; (Muhammad)&lt;br&gt;&lt;br&gt;
@@ -79,7 +78,6 @@ Special thanks to:&lt;br&gt;&lt;br&gt;
 &lt;b&gt;And to all users&lt;/b&gt; - who tested, sent bug reports&lt;br&gt;&lt;br&gt;"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_extra_notif">"Custom options by &lt;b&gt;namok&lt;/b&gt; and &lt;b&gt;krogon500&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 &lt;b&gt;Long press on top icons:&lt;/b&gt;&lt;br&gt;
 &lt;b&gt;Camera icon&lt;/b&gt; - on/off videos autoplay&lt;br&gt;&lt;br&gt;
@@ -88,7 +86,6 @@ Special thanks to:&lt;br&gt;&lt;br&gt;
 &lt;b&gt;Home icon&lt;/b&gt;  - opens developer settings&lt;br&gt;"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
-<!-- Fuzzy -->
 <string name="base64_extra_title">"&lt;big&gt;Attention!&lt;/big&gt;"</string>
 <string name="base64_extra_ok">"Ok"</string>
 <string name="autoplay_on">"Videos autoplay is enabled!"</string>
@@ -100,4 +97,5 @@ Special thanks to:&lt;br&gt;&lt;br&gt;
 <string name="disable_shopping_items">"Disable shopping items in Search"</string>
 <string name="action_bar_title">"Action Bar"</string>
 <string name="navbar_title">"Navigation Bar"</string>
+<string name="carousel_start_desc">"Always show first media in multiple media posts"</string>
 </resources>
