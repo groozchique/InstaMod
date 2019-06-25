@@ -11,9 +11,9 @@
 <string name="tg_channel">"کانال تلگرام"</string>
 <string name="hide_view_status">"مخفی کردن پروفایل در هنگام نمایش استوری ها"</string>
 <string name="hide_view_status_summary">"پنهان کردن خلاصه وضعیت مشاهده"</string>
-<string name="direct_unread">"تیک نخوردن پیام های خوانده شده "</string>
+<string name="direct_unread">"تیک نخوردن پیام های خوانده شده"</string>
 <string name="direct_unread_summary">"پیامهایی که دریافت میکنید، به عنوان خوانده شده علامتگذاری نشوند"</string>
-<string name="direct_typing">"مخفی کردن در حال تایپ در دایرکت "</string>
+<string name="direct_typing">"مخفی کردن در حال تایپ در دایرکت"</string>
 <string name="download_folder">"پوشه دانلود"</string>
 <string name="set_download_folder">"تنظیم مسیر برای دانلود پوشه، شما می توانید بین دو قسمت مسیر اسلش قرار بدهید، اما نه در شروع و نه پایان"</string>
 <string name="select_language">"انتخاب زبان ترجمه"</string>
@@ -26,15 +26,13 @@
 <string name="disable_stories">"غیر فعال کردن استوری ها"</string>
 <string name="suggested_users">"دوستان توصیه شده"</string>
 <string name="suggested_users_sum">"غیرفعال کردن دوستان توصیه شده در فید خانه"</string>
-<string name="gb_enable_logging">"ارسال گزارش کرش ها "</string>
+<string name="gb_enable_logging">"ارسال گزارش کرش ها"</string>
 <string name="disable_updates">"چک کردن به روز رسانی ها"</string>
 <string name="gb_more_options">"گزینه های اضافی"</string>
-<string name="gb_download_only_image_list_media">"دانلود تصاویر انتخاب شده "</string>
+<string name="gb_download_only_image_list_media">"دانلود تصاویر انتخاب شده"</string>
 
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
-<string name="gb_download_list_media">"
-دانلود همه %1$s تصاویر 
-"</string>
+<string name="gb_download_list_media">"دانلود همه %1$s تصاویر"</string>
 <string name="download">"دانلود"</string>
 <string name="previewurl">"پیش نمایش"</string>
 <string name="shareurl">"اشتراک تصویر/لینک ویدیو"</string>
@@ -53,9 +51,9 @@
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
 <string name="version_about">"ورژن مود: %1$d"</string>
 <string name="author_about">"نویسنده:"</string>
-<string name="down_start">"دانلود شروع شد.."</string>
-<string name="direct_unread_off">" تیک خوانده شدن غیر فعال شد"</string>
-<string name="direct_unread_on">"تیک خوانده شدن فعال شد"</string>
+<string name="down_start">"دانلود شروع شد..."</string>
+<string name="direct_unread_off"></string>
+<string name="direct_unread_on"></string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"ذخیره در"</string>
@@ -85,4 +83,5 @@
 <string name="disable_shopping_items">"غیرفعال کردن ایتم های خرید در جستوجو"</string>
 <string name="action_bar_title">"نوار عمل"</string>
 <string name="navbar_title">"نوار ناوبری"</string>
+<string name="carousel_start_desc"></string>
 </resources>
