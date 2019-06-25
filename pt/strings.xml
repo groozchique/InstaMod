@@ -54,8 +54,8 @@
 <string name="version_about">"Versão da aplicação alterada: %1$d"</string>
 <string name="author_about">"Autor: krogon500"</string>
 <string name="down_start">"A transferência começou..."</string>
-<string name="direct_unread_off">"Visto de visualização está desativo"</string>
-<string name="direct_unread_on">"Visto de visualização está ativo"</string>
+<string name="direct_unread_off">"As mensagens não serão marcadas como vistas"</string>
+<string name="direct_unread_on">"As mensagens serão marcadas como vistas"</string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"Guardado em"</string>
@@ -85,4 +85,5 @@
 <string name="disable_shopping_items">"Desativar produtos à venda no menu procurar"</string>
 <string name="action_bar_title">"Barra superior"</string>
 <string name="navbar_title">"Barra de navegação"</string>
+<string name="carousel_start_desc">"Mostrar a primeira publicação em publicações múltiplas"</string>
 </resources>
