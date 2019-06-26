@@ -2,70 +2,70 @@
 <resources>
 <string name="settings_privacy">"Gizlilik"</string>
 <string name="others">"Modlar"</string>
-<string name="service_settings">"Servis Ayarları"</string>
+<string name="service_settings">"Servis ayarları"</string>
 
 <!-- Option in mod settings -->
 <string name="Thanks">"Teşekkürler"</string>
 <string name="donate_mod">"Bağış"</string>
-<string name="about_mod">"Mod Hakkında"</string>
+<string name="about_mod">"Mod hakkında"</string>
 <string name="tg_channel">"Telegram Kanalı"</string>
-<string name="hide_view_status">"Hikayeleri Gördüğümü Gizle"</string>
-<string name="hide_view_status_summary">"Hikayeyi görüntülediğinizden karşı tarafın haberi olmaz."</string>
-<string name="direct_unread">"Sohbette Görüldü İfadesini Gizle"</string>
-<string name="direct_unread_summary">"Karşı taraf mesajı okuduğunuzu göremez."</string>
-<string name="direct_typing">"Sohbette Yazıyor... Bilgisini Gizle"</string>
-<string name="download_folder">"İndirme Klasörü"</string>
-<string name="set_download_folder">"İndirme klasörünüzü belirleyin (Seçili klasör tavsiye!)."</string>
-<string name="select_language">"Çeviri İçin Dil Seçin"</string>
-<string name="two_line_direct">"Sohbette İki Satırlı Eklenti"</string>
-<string name="open_inapp">"Uygulama İçi Bağlantıları Aç"</string>
-<string name="double_like">"Çift Tıklamayla Beğen"</string>
+<string name="hide_view_status">"Hikayeleri gördüğümü izle"</string>
+<string name="hide_view_status_summary">"Hikayeyi görüntülediğinizden karşı tarafın haberi olmaz"</string>
+<string name="direct_unread">"Sohbette görüldü ifadesini gizle"</string>
+<string name="direct_unread_summary">"Karşı taraf mesajı okuduğunuzu göremez"</string>
+<string name="direct_typing">"Sohbette yazıyor... Bilgisini gizle"</string>
+<string name="download_folder">"İndirme klasörü"</string>
+<string name="set_download_folder">"İndirme klasörünüzü belirleyin (Seçili klasör tavsiye!)"</string>
+<string name="select_language">"Çeviri için dil seçin"</string>
+<string name="two_line_direct">"Sohbette iki satırlı eklenti"</string>
+<string name="open_inapp">"Uygulama içi bağlantıları aç"</string>
+<string name="double_like">"Çift tıklamayla beğen"</string>
 <string name="double_down">"Medyayı indirmek için çift dokunun"</string>
-<string name="long_tap_zoom">"Fotoğrafı yakınlaştırmak için uzun basın."</string>
-<string name="play_video_with_audio">"Videoları Sesli Başlat"</string>
-<string name="disable_stories">"Hikayeler Menüsünü Gizle"</string>
-<string name="suggested_users">"Tavsiye Edilen Arkadaşlar"</string>
+<string name="long_tap_zoom">"Fotoğrafı yakınlaştırmak için uzun basın"</string>
+<string name="play_video_with_audio">"Videoları sesli başlat"</string>
+<string name="disable_stories">"Hikayeler menüsünü gizle"</string>
+<string name="suggested_users">"Tavsiye edilen arkadaşlar"</string>
 <string name="suggested_users_sum">"Tavsiye edilen arkadaşlar menüsünü kapatır"</string>
-<string name="gb_enable_logging">"Hata Raporu Gönder"</string>
-<string name="disable_updates">"Güncellemeleri Kapat"</string>
-<string name="gb_more_options">"Ekstra Seçenek"</string>
+<string name="gb_enable_logging">"Hata raporu gönder"</string>
+<string name="disable_updates">"Güncellemeleri kapat"</string>
+<string name="gb_more_options">"Ekstra seçenek"</string>
 <string name="gb_download_only_image_list_media">"İndir"</string>
 
 <!-- DO NOT REMOVE "%1$s" SYMBOL -->
-<string name="gb_download_list_media">"Tüm %1$s Resimlerini İndir"</string>
+<string name="gb_download_list_media">"Tüm %1$s resimlerini indir"</string>
 <string name="download">"İndir"</string>
 <string name="previewurl">"Görüntüle"</string>
-<string name="shareurl">"Resim/Video URL Paylaş"</string>
-<string name="copyurl">"Resim/Video URL Kopyala"</string>
-<string name="settings_feed">"Hikaye ve Besleme Ayarları"</string>
-<string name="carousel_start">"İlk Medyayı Yayınla"</string>
-<string name="disable_ads">"Reklamları Devredışı Bırak"</string>
-<string name="stories_sound">"Hikayeleri Sesli Oynat"</string>
+<string name="shareurl">"Resim/Video URL paylaş"</string>
+<string name="copyurl">"Resim/Video URL kopyala"</string>
+<string name="settings_feed">"Hikaye ve Besleme ayarları"</string>
+<string name="carousel_start">"İlk medyayı yayınla"</string>
+<string name="disable_ads">"Reklamları devredışı bırak"</string>
+<string name="stories_sound">"Hikayeleri sesli oynat"</string>
 <string name="disable_analytics">"Analizleri devre dışı bırak"</string>
 <string name="translate_engine">"Çeviri motorunu seç"</string>
 <string name="mark_seen">"Görüldü olarak işaretle"</string>
 <string name="impossible_down">"İndirmek mümkün değil!"</string>
-<string name="gb_disable_slide">"Slayt Gezintisi"</string>
+<string name="gb_disable_slide">"Slayt Gezintisini kapat"</string>
 <string name="gb_disable_slide_Summary">"Gezinme ekranın sağa sola kayma işlevini devre dışı bırakın."</string>
 
 <!-- DO NOT REMOVE "%1$d" SYMBOL! -->
-<string name="version_about">"Mod Versiyonu: %1$d"</string>
+<string name="version_about">"Mod versiyonu: %1$d"</string>
 <string name="author_about">"Yapımcı: krogon500"</string>
 <string name="down_start">"İndirme başlatıldı..."</string>
-<string name="direct_unread_off"></string>
-<string name="direct_unread_on"></string>
+<string name="direct_unread_off">"Mesajlar okundu olarak gözükür"</string>
+<string name="direct_unread_on">"Mesajlar okunmadı olarak gözükür"</string>
 
 <!-- Toast message when saving media "Saved in sdcard/etc/etc" -->
 <string name="downloaded_media_toast">"Kaydedildi"</string>
 <string name="gb_translate">"Çevir"</string>
 <string name="done_translate">"Çevrildi"</string>
 <string name="translate_toast">"Çevriliyor... Biraz bekleyin"</string>
-<string name="copypassdone">"başarıyla kopyalandı"</string>
+<string name="copypassdone">"Başarıyla kopyalandı"</string>
 <string name="translate_to_tu">"Türkçeye Çevir"</string>
 <string name="translate_to_ua">"Ukraynacaya Çevir"</string>
 <string name="translate_to_ru">"Rusçaya Çevir"</string>
 <string name="translate_to_en">"İngilizceye Çevir"</string>
-<string name="message_too_long">"Hata: Mesaj çok uzun"</string>
+<string name="message_too_long">"Hata: mesaj çok uzun"</string>
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
 <string name="base64_thanks">"SW5zdGFncmFtJ8SxbiBzb24gc8O8csO8bcO8bmUgYWRhcHRhc3lvbjogPGI+a3JvZ29uNTAwPC9iPjxicj48YnI+DQpPcmppbmFsIEdCSW5zdGEgeWFwxLFtY8Sxc8SxOiA8Yj5hdG5mYXMgaG9hazwvYj4gKE9tYXIpPGJyPjxicj4NCkdlbmnFn2xldGlsbWnFnyB2ZXJzaXlvbjogPGJyPjxiPm5hbW9rPC9iPiAoTXVoYW1tYWQpPGJyPjxicj4NCsOWemVsIFRlxZ9la2vDvHI6PGJyPjxicj4NCjxiPk9HTW9kczwvYj4gLU9HSW5zdGEgacOnaW48YnI+DQo8Yj7QodCy0Y/RgtC+0Llf0J7RgtC10YZf0JzQsNC60Yo8L2I+IC0gw5Z6ZWwgYXlhcmxhcsSxbiBSdXPDp2EgZGlsaW5lIMOnZXZpcmlzaTxicj4NCjxiPk1hbWljdWsgJiBKb2tlcnIzMyAmIEludGFuU3VSPC9iPiAtIMOWemVsIG9sYXJhayBUw7xya8OnZSDDp2V2aXJpPGJyPg0KPGI+VGVzdCBlZGVubGVyIHZlIGhhdGEgYmlsZGlyZW5sZXJlPC9iPiAtdmUgdMO8bSBrdWxsYW7EsWPEsWxhcmEgPGJyPjxicj4="</string>
@@ -75,13 +75,13 @@
 
 <!-- WARNING! Read before proceeding! This text will be coded in base64 when you done translating it, DO NOT TOUCH ANYTHING if you see a bunch of letters and numbers. Translate only when you see words and tags like <b></b> Also do not remove tags like <b></b> -->
 <string name="base64_extra_title">"PGJpZz5CaWxnaWxlbmRpcm1lITwvYmln"</string>
-<string name="base64_extra_ok">"TAMAM"</string>
+<string name="base64_extra_ok">"Tamam"</string>
 <string name="autoplay_on">"Videoları otomatik oynatma etkin!"</string>
 <string name="autoplay_off">"Videoları otomatik oynatma devredışı!"</string>
-<string name="navbar_settings">"Gezinti Çubuğu Ayarları"</string>
+<string name="navbar_settings">"Gezinti Çubuğu ayarları"</string>
 <string name="FollowedYou">"(Seni Takip Ediyor)"</string>
-<string name="disable_shopping_items">"Alışveriş Öğelerini Kapat"</string>
-<string name="action_bar_title">"İşlem Başlığı Yazısı"</string>
-<string name="navbar_title">"Gezinti Çubuğu Yazısı"</string>
-<string name="carousel_start_desc"></string>
+<string name="disable_shopping_items">"Alışveriş öğelerini kapat"</string>
+<string name="action_bar_title">"İşlem Başlığı yazısı"</string>
+<string name="navbar_title">"Gezinti Çubuğu yazısı"</string>
+<string name="carousel_start_desc">"Çoklu gönderileri ilk medya içinde görüntüle"</string>
 </resources>
